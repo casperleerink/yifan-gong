@@ -1,0 +1,99 @@
+$background-color: white;
+$text-color: #555;
+$text-color-light: #777;
+$tablet-width: 768px;
+$desktop-width: 1024px;
+
+@mixin tablet {
+    @media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
+        @content;
+      }
+}
+@mixin desktop {
+    @media (min-width: #{$desktop-width}) {
+      @content;
+    }
+  }
+
+* {
+    box-sizing: border-box;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90%;
+}
+body {
+    background-color: $background-color;
+    color: $text-color;
+    margin: 0;
+    padding: 0;
+}
+a {
+    color: $text-color;
+    text-decoration: none;
+    :hover {
+        text-decoration: none;
+        color: $text-color-light;
+    }
+}
+
+header {
+    display: block;
+    width: 100%;
+    float: left;
+    // padding: 1rem;
+    // text-transform: uppercase;
+    .title {
+        width: 75%;
+        float: left;
+        padding: 1rem;
+        @include desktop {
+            width: 25%;
+        }
+        h1 {
+            font-size: 2rem;
+            padding: 0;
+            margin: 0;
+        }
+    }
+    .bars {
+        font-size: 2rem;
+        margin: 1rem;
+        display: block;
+        width: 20%;
+        float: right;
+        cursor: pointer;
+        @include desktop {
+            display: none;
+        }
+    }
+    nav {
+        display: none;
+        width: 100%;
+        float: left;
+        padding: 1rem 0;
+        @include desktop {
+            display: block;
+            width: 70%;
+        }
+        .menu-item {
+            display: block;
+            padding: 1rem;
+            text-align: center;
+            font-size: 0.9rem;
+            @include desktop {
+                display: inline-block;
+            }
+        }
+    }
+    .expanded {
+        display: block;
+    }
+}
+
+main {
+    display: block;
+    width: 100%;
+    float: left;
+    padding: 1rem;
+}
