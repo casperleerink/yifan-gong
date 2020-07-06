@@ -1,4 +1,5 @@
 $background-color: white;
+$text-color-dark: #000;
 $text-color: #555;
 $text-color-light: #777;
 $tablet-width: 768px;
@@ -48,7 +49,7 @@ header {
         float: left;
         padding: 1rem;
         @include desktop {
-            width: 25%;
+            width: 20%;
         }
         h1 {
             font-size: 2rem;
@@ -74,7 +75,7 @@ header {
         padding: 1rem 0;
         @include desktop {
             display: block;
-            width: 70%;
+            width: 75%;
         }
         .menu-item {
             display: block;
@@ -83,6 +84,9 @@ header {
             font-size: 0.9rem;
             @include desktop {
                 display: inline-block;
+            }
+            .link-active {
+                color: $text-color-dark;
             }
         }
     }

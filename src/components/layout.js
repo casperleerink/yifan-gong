@@ -9,10 +9,10 @@ import Menu from "./menu"
 
 const Layout = ({children}) => {
   return (
-    <div className="layout-container" >
+    <>
       <Menu />
       <main className="main-content">{children}</main>
-    </div>
+    </>
   )
 }
 

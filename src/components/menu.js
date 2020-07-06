@@ -17,12 +17,17 @@ const Menu = () => {
       <div className="title">
         <h1><Link to="/">Yifan Gong</Link></h1>
       </div>
-      <FontAwesomeIcon icon= {faBars} onClick={handleToggle} className="bars"/>
+      <FontAwesomeIcon icon={faBars} onClick={handleToggle} className="bars"/>
       <nav className={menuExpanded ? "expanded": ""}>
         <li className="menu-item"><Link to="/about" activeClassName="link-active">Biography</Link></li>
+        <li className="menu-item"><Link to="/live-performance" activeClassName="link-active">Live Performance</Link></li>
+        <li className="menu-item"><Link to="/painting" activeClassName="link-active">Painting</Link></li>
+        <li className="menu-item"><Link to="/photography" activeClassName="link-active">Photography</Link></li>
+        <li className="menu-item"><Link to="/showreel" activeClassName="link-active">Showreel</Link></li>
+        <li className="menu-item"><Link to="/video-performance" activeClassName="link-active">Video Performance</Link></li>
         <li className="menu-item"><Link to="/works" activeClassName="link-active">Works</Link></li>
-      </nav>
-      
+        <li className="menu-item"><Link to="/writing" activeClassName="link-active">Writing</Link></li>
+      </nav>      
     </header>
   )
 }
