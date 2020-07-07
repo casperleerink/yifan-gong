@@ -1,0 +1,15 @@
+backend:
+  name: git-gateway
+  repo: casperleerink/yifan-gong
+media_folder: static/assets
+public_folder: /assets
+collections:
+  - label: "Pages" 
+    name: "pages"
+    files:
+      - label: "Biography"
+        name: "about"
+        file: "src/pages/about.md"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "body", name: "body", widget: "markdown"}
