@@ -8,7 +8,7 @@ import Content, {HTMLContent} from "../components/Content"
 export const AboutTemplate = ({content, contentComponent}) => {
   const PageContent = contentComponent || Content;
   return (
-    <PageContent className={'content'} content={content} />
+    <PageContent className={'about-container'} content={content} />
   )
 }
 
@@ -17,7 +17,7 @@ const AboutPage = ({data}) => {
   
   return (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="About" />
     <AboutTemplate contentComponent={HTMLContent} content={data.markdownRemark.html}/>
   </Layout>
   )

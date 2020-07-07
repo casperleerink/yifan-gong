@@ -86,6 +86,10 @@ header {
                 display: inline-block;
             }
             .link-active {
+                font-weight: bold;
+            }
+            :hover {
+                // color: $text-color-light;
                 color: $text-color-dark;
             }
         }
@@ -100,4 +104,18 @@ main {
     width: 100%;
     float: left;
     padding: 1rem;
+
+    .about-container {
+        @include desktop {
+            padding-left: 20%;
+            padding-right: 20%;
+        }
+        p {
+            display: block;
+        }
+        img {
+            width: 50%;
+            float: right;
+        }
+    }
 }
