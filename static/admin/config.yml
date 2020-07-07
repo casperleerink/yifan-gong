@@ -12,4 +12,5 @@ collections:
         file: "src/pages/about.md"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Image", name: "image", widget: "image"}
           - {label: "body", name: "body", widget: "markdown"}
