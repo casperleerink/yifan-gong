@@ -1,9 +1,10 @@
 ---
 templateKey: about-page
 ---
-Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.
+Here is some sample biography text...
 
-Test commit text!
+
+
+And some sample image to go with it!
 
 ![Angelina Pwerle - Bush Plum](/assets/Angelina-Pwerle-Bush-Plum-1nocejd.jpeg "Angelina Pwerle - Bush Plum")
