@@ -165,6 +165,9 @@ main {
         p {
             display: block;
         }
+        img {
+            width: 100%;
+        }
     }
 
     .works-container {
@@ -175,6 +178,9 @@ main {
             a {
                 h5 {
                     margin: 0.5rem 0;
+                }
+                img {
+                    width: 100%;
                 }
             }
             a:hover {

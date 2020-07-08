@@ -11,7 +11,7 @@ const WorksPage = ({data}) => {
         return (
           <div className="works-item">
               <Link to={node.fields.slug}>
-                <Img fluid={node.frontmatter.image.childImageSharp.fluid} />
+                <img src={`${node.frontmatter.image}?nf_resize=smartcrop&w=400&h=400`} alt={node.frontmatter.title}/>
                 <h5>{node.frontmatter.title}</h5>
               </Link>
           </div>
@@ -39,13 +39,7 @@ query worksQuery {
           }
           frontmatter {
             title
-            image {
-              childImageSharp {
-                fluid {
-                  ...GatsbyImageSharpFluid
-                }
-              }
-            }
+            image
           }
         }
       }

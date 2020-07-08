@@ -3,7 +3,6 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { graphql } from 'gatsby'
 import Content, {HTMLContent} from "../components/Content"
-import Img from "gatsby-image"
 
 
 export const AboutTemplate = ({content, contentComponent}) => {
@@ -11,7 +10,7 @@ export const AboutTemplate = ({content, contentComponent}) => {
   return (
     <div class="about-container">
       <PageContent className={'content'} content={content.html} />
-      <Img fluid={content.frontmatter.image.childImageSharp.fluid}/>
+      <img src={content.frontmatter.image}/>
     </div>
   )
 }
@@ -33,13 +32,7 @@ export const aboutPageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
-        image {
-          childImageSharp {
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        image
       }
     }
   }

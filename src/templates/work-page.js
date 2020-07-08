@@ -3,7 +3,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { graphql } from 'gatsby'
 import Content, {HTMLContent} from "../components/Content"
-import Img from "gatsby-image"
+// import Img from "gatsby-image"
 
 export const WorkTemplate = ({content, contentComponent}) => {
   const PageContent = contentComponent || Content;
@@ -12,7 +12,7 @@ export const WorkTemplate = ({content, contentComponent}) => {
         <h1>{content.frontmatter.title}</h1>
         <p>{content.frontmatter.date}</p>
         <PageContent className={'content'} content={content.html} />
-        <Img fluid={content.frontmatter.image.childImageSharp.fluid}/>
+        <img src={content.frontmatter.image}/>
     </div>
   )
 }
@@ -34,13 +34,7 @@ export const workPageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
-        image {
-          childImageSharp {
-            fluid {
-              ...GatsbyImageSharpFluid
-            }
-          }
-        }
+        image
         title
         date(formatString: "MMMM YYYY")
       }
