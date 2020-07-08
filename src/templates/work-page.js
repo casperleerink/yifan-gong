@@ -5,31 +5,32 @@ import { graphql } from 'gatsby'
 import Content, {HTMLContent} from "../components/Content"
 import Img from "gatsby-image"
 
-
-export const AboutTemplate = ({content, contentComponent}) => {
+export const WorkTemplate = ({content, contentComponent}) => {
   const PageContent = contentComponent || Content;
   return (
-    <div class="about-container">
-      <PageContent className={'content'} content={content.html} />
-      <Img fluid={content.frontmatter.image.childImageSharp.fluid}/>
+    <div class="work-page-container">
+        <h1>{content.frontmatter.title}</h1>
+        <p>{content.frontmatter.date}</p>
+        <PageContent className={'content'} content={content.html} />
+        <Img fluid={content.frontmatter.image.childImageSharp.fluid}/>
     </div>
   )
 }
 
-const AboutPage = ({data}) => {
+const WorkPage = ({data}) => {
   return (
   <Layout>
     <SEO title="About" />
-    <AboutTemplate contentComponent={HTMLContent} content={data.markdownRemark}/>
+    <WorkTemplate contentComponent={HTMLContent} content={data.markdownRemark}/>
   </Layout>
   )
 }
 
-export default AboutPage
+export default WorkPage
 
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const workPageQuery = graphql`
+  query workPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
@@ -40,6 +41,8 @@ export const aboutPageQuery = graphql`
             }
           }
         }
+        title
+        date(formatString: "MMMM YYYY")
       }
     }
   }

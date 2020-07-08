@@ -48,59 +48,6 @@ const youtube = {
 //   return (match&&match[7].length==11) ? match[7] : '';
 // }
 
-const imageWithClass = {
-    label: 'Image with styling',
-    id: 'imageStyling',
-    // pattern: /^!\[(.*)\]\((.*?)(\s"(.*)")?\)$/,
-    pattern: /^<img\ssrc="([^"]*)"\salt="([^"]*)"\stitle="([^"]*)"\sclass="([^"]*)"><\/img>$/,
-    fromBlock: match => {
-        // console.log(match);
-        const classes = match[4] ? match[4].split(" ") : [];
-        return match && {
-            image: match[1],
-            alt: match[2],
-            title: match[3],
-            className: classes,
-        }
-    },
-    toBlock: ({ alt, image, title, className }) => {
-        const classes = className ? className.join(' ') : "";
-        return `<img src="${image || ''}" alt="${alt || ''}" title="${title || ""}" class="${classes}"></img>`;
-    },
-    toPreview: ({ alt, image, title, className }, getAsset, fields) => {
-      const imageField = fields?.find(f => f.get('widget') === 'image');
-      const src = getAsset(image, imageField);
-      const classes = className ? className.join(' ') : "";
-      return `<img src="${src || ''}" alt="${alt || ''}" title="${title || ""}" class="${classes || ''}"></img>`;
-    },
-    fields: [
-      {
-        label: 'Image',
-        name: 'image',
-        widget: 'image',
-        media_library: {
-          allow_multiple: false,
-        },
-      },
-      {
-        label: 'Alt Text',
-        name: 'alt',
-      },
-      {
-        label: 'Title',
-        name: 'title',
-      },
-      {
-        label: 'Styling',
-        name: 'className',
-        widget: 'select',
-        multiple: true,
-        options: ["half", "half-left", "half-right", "middle"],
-        default: ["half", "half-left"],
-      },
-    ],
-  };
-
 const whitespace = {
     // Internal id of the component
     id: "whitespace",
@@ -118,14 +65,12 @@ const whitespace = {
     pattern: /^<div\sclass="([^"]*)"><\/div>$/,
     // Function to extract data elements from the regexp match
     fromBlock: function(match) {
-      console.log(match[1]);
         return {
             className: match[1],
         };
     },
     // Function to create a text block from an instance of this component
     toBlock: function(obj) {
-      console.log(obj.className);
       return (
         `<div class="${obj.className ? obj.className : ''}"></div>`
       )
@@ -139,7 +84,47 @@ const whitespace = {
           )
     },
 }
+const imageTitleClass = {
+  label: 'Styled Image',
+  id: 'styledImage',
+  fromBlock: match =>
+    match && {
+      image: match[2],
+      alt: match[1],
+      className: match[3],
+    },
+  toBlock: ({ alt, image, className }) =>
+    `![${alt || ''}](${image || ''}#${className || ''})`,
+  // eslint-disable-next-line react/display-name
+  toPreview: ({ alt, image, className }, getAsset, fields) => {
+    const imageField = fields?.find(f => f.get('widget') === 'image');
+    const src = getAsset(image, imageField);
+    return `<img src=${src || ''} alt=${alt || ''} class=${className || ''} />`;
+  },
+  pattern: /^!\[(.*)\]\((.*?)#(.*?)\)$/,
+  fields: [
+    {
+      label: 'Image',
+      name: 'image',
+      widget: 'image',
+      media_library: {
+        allow_multiple: false,
+      },
+    },
+    {
+      label: 'Alt Text',
+      name: 'alt',
+    },
+    {
+      label: 'Styling',
+      name: 'className',
+      widget: 'select',
+      options: ["half-left", "half-right", "middle", "full"],
+      default: "full",
+    },
+  ],
+};
 
   CMS.registerEditorComponent(youtube);
-  CMS.registerEditorComponent(imageWithClass);
+  CMS.registerEditorComponent(imageTitleClass);
   CMS.registerEditorComponent(whitespace);

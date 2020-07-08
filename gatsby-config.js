@@ -14,6 +14,13 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
+    {            
+      resolve: `gatsby-source-filesystem`,      
+      options: {
+        path: `${__dirname}/static/assets`,
+        name: 'images',
+      },
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -21,13 +28,14 @@ module.exports = {
         path: `${__dirname}/src/pages`,
       },
     },
-    `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     //transform markdown (including relative image paths)
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
+          `gatsby-remark-relative-images`,
           {
             resolve: `gatsby-remark-images`,
             options: {

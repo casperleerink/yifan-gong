@@ -14,3 +14,13 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Image", name: "image", widget: "image"}
           - {label: "body", name: "body", widget: "markdown"}
+  - name: works
+    label: Works
+    folder: src/pages/works
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "work-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: "", dateFormat: "DD.MM.YYYY", timeFormat: false}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "body", name: "body", widget: "markdown"}

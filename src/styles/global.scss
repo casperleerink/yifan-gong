@@ -1,7 +1,11 @@
-$background-color: white;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;1,100');
+
+$font-stack: 'Roboto', sans-serif;
+$background-color: rgb(255, 255, 255);
+$background-color-header: rgba(255, 255, 255, 0.95);
 $text-color-dark: #000;
-$text-color: #555;
-$text-color-light: #777;
+$text-color: #888;
+$text-color-light: #aaa;
 $tablet-width: 768px;
 $desktop-width: 1024px;
 
@@ -20,8 +24,7 @@ $desktop-width: 1024px;
     box-sizing: border-box;
 }
 html {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 90%;
+    font: 110% $font-stack;
 }
 body {
     background-color: $background-color;
@@ -34,7 +37,7 @@ a {
     text-decoration: none;
     :hover {
         text-decoration: none;
-        color: $text-color-light;
+        // color: $text-color-light;
     }
 }
 
@@ -42,6 +45,7 @@ header {
     display: block;
     width: 100%;
     float: left;
+    background: $background-color-header;
     // padding: 1rem;
     // text-transform: uppercase;
     .title {
@@ -93,9 +97,44 @@ header {
                 color: $text-color-dark;
             }
         }
+        .dropdown {
+            .dropdown-content {
+                display: none;
+                background: $background-color-header;
+                position: absolute;
+                box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
+                border-radius: 10%;
+                z-index: 10 !important;
+                a {
+                    float: none;
+                    display: block;
+                    text-align: left;
+                    text-decoration: none;
+                    padding: 0.5rem;
+                    padding-top: 0.5rem;
+                    :hover {
+                        color: $text-color-dark;
+                    }
+                }
+            }
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
     }
     .expanded {
         display: block;
+    }
+}
+@include desktop {
+    .sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        z-index: 9 !important;
+    }
+    .sticky + main {
+        padding-top: 6rem;
     }
 }
 
@@ -114,8 +153,32 @@ main {
             display: block;
         }
         img {
-            width: 50%;
-            float: right;
+            width: 100%;
+        }
+    }
+    .work-page-container {
+        @include desktop {
+            padding-left: 20%;
+            padding-right: 20%;
+        }
+        p {
+            display: block;
+        }
+    }
+
+    .works-container {
+        display: grid;
+        gap: 1rem;
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        .works-item {
+            a {
+                h5 {
+                    margin: 0.5rem 0;
+                }
+            }
+            a:hover {
+                opacity: 0.9;
+            }
         }
     }
 }
