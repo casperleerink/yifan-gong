@@ -45,12 +45,14 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 
   data.forEach((edge) => {
     const id = edge.node.id;
-    createPage({
-      path: edge.node.fields.slug,
-      component: path.resolve(`src/templates/${edge.node.frontmatter.templateKey}.js`),
-      context: {
-        id,
-      },
-    })
+    if (edge.node.frontmatter.templateKey) {
+      createPage({
+        path: edge.node.fields.slug,
+        component: path.resolve(`src/templates/${edge.node.frontmatter.templateKey}.js`),
+        context: {
+          id,
+        },
+      });
+    }
   })
 }

@@ -5,7 +5,7 @@ import { graphql, Link } from 'gatsby'
 
 
 
-const PaintingsPage = ({data}) => {
+const MusicPage = ({data}) => {
     const works = data.allMarkdownRemark.edges.map(({node}) => {
         return (
           <div className="works-item">
@@ -30,11 +30,11 @@ const PaintingsPage = ({data}) => {
     )
 }
 
-export default PaintingsPage
+export default MusicPage
 
-export const paintingsPageQuery = graphql`
-query paintingsQuery {
-    allMarkdownRemark(filter: {fields: {slug: {regex: "/paintings/"}}}) {
+export const musicPageQuery = graphql`
+query musicQuery {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/music/"}}}) {
       edges {
         node {
           fields {

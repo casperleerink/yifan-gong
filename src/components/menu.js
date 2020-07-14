@@ -24,7 +24,47 @@ const Menu = () => {
   });
   const data = useStaticQuery(graphql`
     query MenuQuery {
-      works: allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "work-page"}}}) {
+      videoPerformances: allMarkdownRemark(filter: {fields: {slug: {regex: "/video-performances/"}}}) {
+        nodes {
+          frontmatter {
+            title
+          }
+          fields {
+            slug
+          }
+        }
+      }
+      livePerformances: allMarkdownRemark(filter: {fields: {slug: {regex: "/live-performances/"}}}) {
+        nodes {
+          frontmatter {
+            title
+          }
+          fields {
+            slug
+          }
+        }
+      }
+      music: allMarkdownRemark(filter: {fields: {slug: {regex: "/music/"}}}) {
+        nodes {
+          frontmatter {
+            title
+          }
+          fields {
+            slug
+          }
+        }
+      }
+      paintings: allMarkdownRemark(filter: {fields: {slug: {regex: "/paintings/"}}}) {
+        nodes {
+          frontmatter {
+            title
+          }
+          fields {
+            slug
+          }
+        }
+      }
+      photographs: allMarkdownRemark(filter: {fields: {slug: {regex: "/photographs/"}}}) {
         nodes {
           frontmatter {
             title
@@ -36,8 +76,28 @@ const Menu = () => {
       }
       }
     `);
-  const workDropdownItems = data.works.nodes.map((item) =>
-    <Link to={`${item.fields.slug}`}>
+  const videoPerformances = data.videoPerformances.nodes.map((item) =>
+    <Link to={item.fields.slug} key={item.fields.slug}>
+      {item.frontmatter.title}
+    </Link>
+  );
+  const livePerformances = data.livePerformances.nodes.map((item) =>
+    <Link to={item.fields.slug} key={item.fields.slug}>
+      {item.frontmatter.title}
+    </Link>
+  );
+  const music = data.music.nodes.map((item) =>
+    <Link to={item.fields.slug} key={item.fields.slug}>
+      {item.frontmatter.title}
+    </Link>
+  );
+  const paintings = data.paintings.nodes.map((item) =>
+    <Link to={item.fields.slug} key={item.fields.slug}>
+      {item.frontmatter.title}
+    </Link>
+  );
+  const photographs = data.photographs.nodes.map((item) =>
+    <Link to={item.fields.slug} key={item.fields.slug}>
       {item.frontmatter.title}
     </Link>
   );
@@ -48,19 +108,42 @@ const Menu = () => {
       </div>
       <FontAwesomeIcon icon={faBars} onClick={handleToggle} className="bars"/>
       <nav className={menuExpanded ? "expanded": ""}>
-        <li className="menu-item"><Link to="/about" activeClassName="link-active">Biography</Link></li>
-        <li className="menu-item"><Link to="/live-performance" activeClassName="link-active">Live Performance</Link></li>
-        <li className="menu-item"><Link to="/painting" activeClassName="link-active">Painting</Link></li>
-        <li className="menu-item"><Link to="/photography" activeClassName="link-active">Photography</Link></li>
-        <li className="menu-item"><Link to="/showreel" activeClassName="link-active">Showreel</Link></li>
-        <li className="menu-item"><Link to="/video-performance" activeClassName="link-active">Video Performance</Link></li>
-        <li className="menu-item dropdown">
-          <Link to="/works" activeClassName="link-active">Works</Link>
-          <div class="dropdown-content">
-            {workDropdownItems}
+        <li key="about" className="menu-item"><Link to="/about" activeClassName="link-active">Biography</Link></li>
+        <li key="showreel" className="menu-item"><Link to="/showreel" activeClassName="link-active">Showreel</Link></li>
+        <li key="video-performances" className="menu-item dropdown">
+          <Link to="/video-performances" activeClassName="link-active">Video</Link>
+          <div className="dropdown-content">
+            {videoPerformances}
           </div>
         </li>
-        <li className="menu-item"><Link to="/writing" activeClassName="link-active">Writing</Link></li>
+        <li key="live-performance" className="menu-item dropdown">
+          <Link to="/live-performances" activeClassName="link-active">Live Performance</Link>
+          <div className="dropdown-content">
+            {livePerformances}
+          </div>
+        </li>
+        <li key="painting" className="menu-item dropdown">
+          <Link to="/painting" activeClassName="link-active">Painting</Link>
+          <div className="dropdown-content">
+            {paintings}
+          </div>
+        </li>
+
+        <li key="photographs" className="menu-item dropdown">
+          <Link to="/photographs" activeClassName="link-active">Photography</Link>
+          <div className="dropdown-content">
+            {photographs}
+          </div>
+        </li>
+        
+        <li key="music" className="menu-item dropdown">
+          <Link to="/music" activeClassName="link-active">Music/Sound</Link>
+          <div className="dropdown-content">
+            {music}
+          </div>
+        </li>
+
+        <li key="writing" className="menu-item"><Link to="/writing" activeClassName="link-active">Writing</Link></li>
       </nav>      
     </header>
   )

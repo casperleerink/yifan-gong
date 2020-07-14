@@ -9,8 +9,8 @@ export const AboutTemplate = ({content, contentComponent}) => {
   const PageContent = contentComponent || Content;
   return (
     <div class="about-container">
+      <img src={content.frontmatter.image} alt="Yifan Gong"/>
       <PageContent className={'content'} content={content.html} />
-      <img src={content.frontmatter.image}/>
     </div>
   )
 }

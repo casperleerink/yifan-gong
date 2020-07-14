@@ -3,9 +3,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { graphql, Link } from 'gatsby'
 
-
-
-const PaintingsPage = ({data}) => {
+const VideoPerformancesPage = ({data}) => {
     const works = data.allMarkdownRemark.edges.map(({node}) => {
         return (
           <div className="works-item">
@@ -30,11 +28,11 @@ const PaintingsPage = ({data}) => {
     )
 }
 
-export default PaintingsPage
+export default VideoPerformancesPage
 
-export const paintingsPageQuery = graphql`
-query paintingsQuery {
-    allMarkdownRemark(filter: {fields: {slug: {regex: "/paintings/"}}}) {
+export const videoPerformancesPageQuery = graphql`
+query videoPerformancesQuery {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/video-performances/"}}}) {
       edges {
         node {
           fields {

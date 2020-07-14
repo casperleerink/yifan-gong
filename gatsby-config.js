@@ -27,12 +27,13 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          // {
-          //   resolve: `gatsby-remark-images`,
-          //   options: {
-          //     maxWidth: 800,
-          //   }
-          // },
+          {
+            resolve: `gatsby-remark-autolink-headers`,
+            options: {
+              offsetY: 100,
+              icon: null,
+            }
+          },
         ]
       }
     },

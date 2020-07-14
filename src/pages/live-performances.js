@@ -1,18 +1,19 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import Img from 'gatsby-image'
 import { graphql, Link } from 'gatsby'
 
-
-
-const WorksPage = ({data}) => {
+const LivePerformancesPage = ({data}) => {
     const works = data.allMarkdownRemark.edges.map(({node}) => {
         return (
           <div className="works-item">
               <Link to={node.fields.slug}>
-                <img src={`${node.frontmatter.image}?nf_resize=smartcrop&w=400&h=400`} alt={node.frontmatter.title}/>
-                <h5>{node.frontmatter.title}</h5>
+                <img src={node.frontmatter.image} alt={node.frontmatter.title}/>
+                <div className="title-excerpt">
+                  <h2>{node.frontmatter.title}</h2>
+                  <h3>{node.frontmatter.date}</h3>
+                  <p>{node.excerpt}</p>
+                </div>
               </Link>
           </div>
         )
@@ -27,11 +28,11 @@ const WorksPage = ({data}) => {
     )
 }
 
-export default WorksPage
+export default LivePerformancesPage
 
-export const worksPageQuery = graphql`
-query worksQuery {
-    allMarkdownRemark(filter: {frontmatter: {templateKey: {eq: "work-page"}}}) {
+export const livePerformancesPageQuery = graphql`
+query livePerformancesQuery {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/live-performances/"}}}) {
       edges {
         node {
           fields {
@@ -39,8 +40,10 @@ query worksQuery {
           }
           frontmatter {
             title
+            date(formatString: "MMMM YYYY")
             image
           }
+          excerpt(pruneLength: 200)
         }
       }
     }

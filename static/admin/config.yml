@@ -14,9 +14,54 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Image", name: "image", widget: "image"}
           - {label: "body", name: "body", widget: "markdown"}
-  - name: works
-    label: Works
-    folder: src/pages/works
+      - label: "Landing Page"
+        name: "home"
+        file: "src/pages/home.md"
+        fields:
+          - {label: "Image", name: "image", widget: "image"}
+  - name: video-performances
+    label: Video Performances
+    folder: src/pages/video-performances
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "work-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: "", dateFormat: "DD.MM.YYYY", timeFormat: false}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "body", name: "body", widget: "markdown"}
+  - name: live-performances
+    label: Live Performances
+    folder: src/pages/live-performances
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "work-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: "", dateFormat: "DD.MM.YYYY", timeFormat: false}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "body", name: "body", widget: "markdown"}
+  - name: music
+    label: Music
+    folder: src/pages/music
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "work-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: "", dateFormat: "DD.MM.YYYY", timeFormat: false}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "body", name: "body", widget: "markdown"}
+  - name: paintings
+    label: Paintings
+    folder: src/pages/paintings
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "work-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime", default: "", dateFormat: "DD.MM.YYYY", timeFormat: false}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "body", name: "body", widget: "markdown"}
+  - name: photographs
+    label: Photography
+    folder: src/pages/photographs
     create: true
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "work-page"}
