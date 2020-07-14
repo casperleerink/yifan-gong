@@ -1,13 +1,15 @@
 import CMS from 'netlify-cms-app';
-
-
-
-import Preview from './preview-templates/preview'
+import AboutPreview from './preview-templates/about-preview'
+import WorkPreview from './preview-templates/work-preview'
 
 import styles from '!css-loader!sass-loader!../styles/global.scss'
 CMS.registerPreviewStyle(styles.toString(), { raw: true })
-CMS.registerPreviewTemplate('about', Preview);
-// CMS.registerMediaLibrary(cloudinary);
+CMS.registerPreviewTemplate('about', AboutPreview);
+CMS.registerPreviewTemplate('music', WorkPreview);
+CMS.registerPreviewTemplate('video-performances', WorkPreview);
+CMS.registerPreviewTemplate('live-performances', WorkPreview);
+CMS.registerPreviewTemplate('paintings', WorkPreview);
+CMS.registerPreviewTemplate('photographs', WorkPreview);
 
 
 
