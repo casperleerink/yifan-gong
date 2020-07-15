@@ -6,8 +6,6 @@ image: /assets/yifan-gong.jpg
 ---
 This is the body of the work page.
 
-
-
 Youtube tryout
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/https://youtu.be/IUDTlvagjJA" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/IUDTlvagjJA" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
