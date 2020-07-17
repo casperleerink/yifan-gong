@@ -1,9 +1,16 @@
 import React from 'react'
 import { AboutTemplate } from '../../templates/about-page'
 
-const AboutPreview = ({ widgetFor }) => {
+const AboutPreview = ({ widgetFor}) => {
+    const pageData = {
+        html: widgetFor('body'),
+        frontmatter: {
+            image: widgetFor('image'),
+        }
+    }
     return (
-        <AboutTemplate content={widgetFor('body')}/>
+        <AboutTemplate content={pageData}/>
+
     )
 }
 
