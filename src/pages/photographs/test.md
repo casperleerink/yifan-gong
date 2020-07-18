@@ -39,3 +39,9 @@ image: /assets/yg-no.4.jpg
 ![Dream Contact Sheet 1](/assets/yg-contact-sheet-01.jpg "Dream Contact Sheet 1")
 
 ![Dream Contact Sheet 2](/assets/yg-contact-sheet-02.jpg "Dream Contact Sheet 2")
+
+
+
+# Artist Statement 
+
+[Artist Statement on Project Dream](/assets/yifan-artist-statement-for-va384-project-2.pdf)
