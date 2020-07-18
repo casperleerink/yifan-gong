@@ -20,6 +20,10 @@ image: /assets/yg-no.4.jpg
 
 ![Dream Series No.3](/assets/yg-no.3.jpg "Dream Series No.3")
 
+### Additional Works (Practice)
 
+![Additional Work 1](/assets/yg-additional-1.jpg "Additional Work 1")
 
-### Additional Works
+![Additional Work 2](/assets/yg-additional2.jpg "Additional Work 2")
+
+![Additional Work 3](/assets/yg-10.jpg "Additional Work 3")
