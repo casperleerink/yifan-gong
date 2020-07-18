@@ -27,3 +27,15 @@ image: /assets/yg-no.4.jpg
 ![Additional Work 2](/assets/yg-additional2.jpg "Additional Work 2")
 
 ![Additional Work 3](/assets/yg-10.jpg "Additional Work 3")
+
+![Additional Work 4](/assets/yg-no.2.jpg "Additional Work 4")
+
+![Additional Work 5](/assets/yg-no.5.jpg "Additional Work 5")
+
+
+
+### Contact Sheets
+
+![Dream Contact Sheet 1](/assets/yg-contact-sheet-01.jpg "Dream Contact Sheet 1")
+
+![Dream Contact Sheet 2](/assets/yg-contact-sheet-02.jpg "Dream Contact Sheet 2")
