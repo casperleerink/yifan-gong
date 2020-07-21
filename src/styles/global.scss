@@ -234,7 +234,7 @@ header {
 .landing-page {
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 600%;
     min-height: 100vh;
     min-width: 100vw;
     header {
@@ -248,6 +248,13 @@ header {
             .dropdown-content {
                 background: $background-color-header-landing;
             }
+        }
+    }
+    .img-container {
+        // background-color: white;
+        text-align: center;
+        img {
+            width: 50%;
         }
     }
 }
@@ -277,6 +284,7 @@ main {
                 display: block;
             }
             position: fixed;
+            width: 18%;
             top: 5rem;
             left: 1rem;
             color: $text-color-light;

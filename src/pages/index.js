@@ -8,6 +8,9 @@ export default function Home({data}) {
     <div className="landing-page" style={{backgroundImage: `url(${data.markdownRemark.frontmatter.image})`}}>
       <Layout>
         <SEO title="Home"/>
+        <div className="img-container">
+          <img src={data.markdownRemark.frontmatter.image} alt="Yifan Gong"/>
+        </div>
       </Layout>
     </div>
   )
