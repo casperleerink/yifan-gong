@@ -4,7 +4,7 @@ title: '"Dream" Series: Large-format Photographic Construction '
 date: 2020-03-30T23:00:00.000Z
 image: /assets/yg-no.4.jpg
 ---
-> # *Dream*
+
 
 ### *Dream, No.1*, 4” x 5” B&W film, 2020, digitally scanned
 
@@ -56,10 +56,6 @@ Each of the series is of double or more exposures. I made the lighting effects b
 
 <!--EndFragment-->
 
-
-
 # Critical Reflection
 
 [Dream Reflection](/assets/dream-critical-reflection.pdf)
-
-#
