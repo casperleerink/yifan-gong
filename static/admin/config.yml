@@ -76,3 +76,10 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "File", name: "file", widget: "file"}
+  - name: showreel
+    label: Showreel
+    folder: src/pages/showreel
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Video URL", name: "url", widget: "string"}
