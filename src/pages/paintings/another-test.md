@@ -1,8 +1,7 @@
 ---
 templateKey: work-page
-title: A Painting
-date: 2018-01-30T08:00:00.000Z
-image: /assets/yifan-gong.jpg
+title: One Series
+date: 2020-02-19T16:00:00.000Z
+image: /assets/dsc_2753_副本.jpg
 ---
-
-This is the body of the work page.
+jblhvlgligligliu
