@@ -20,7 +20,7 @@ const VideoPerformancesPage = ({data}) => {
     });
     return (
       <Layout>
-        <SEO title="Works"/>
+        <SEO title="Video Performances"/>
         <div className="works-container">
             {works}
         </div> 

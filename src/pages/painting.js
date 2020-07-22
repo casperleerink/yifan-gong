@@ -22,7 +22,7 @@ const PaintingsPage = ({data}) => {
     });
     return (
       <Layout>
-        <SEO title="Works"/>
+        <SEO title="Paintings"/>
         <div className="works-container">
             {works}
         </div> 

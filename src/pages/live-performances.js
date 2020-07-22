@@ -20,7 +20,7 @@ const LivePerformancesPage = ({data}) => {
     });
     return (
       <Layout>
-        <SEO title="Works"/>
+        <SEO title="Live Performances"/>
         <div className="works-container">
             {works}
         </div> 

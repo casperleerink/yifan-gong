@@ -22,7 +22,7 @@ const MusicPage = ({data}) => {
     });
     return (
       <Layout>
-        <SEO title="Works"/>
+        <SEO title="Music/Sound"/>
         <div className="works-container">
             {works}
         </div> 

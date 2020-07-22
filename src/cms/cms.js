@@ -121,6 +121,43 @@ const fileLink = {
   ],
 };
 
-  CMS.registerEditorComponent(youtube);
-  CMS.registerEditorComponent(imageTitleClass);
-  CMS.registerEditorComponent(fileLink);
+const whitespace = {
+  // Internal id of the component
+  id: "whitespace",
+  // Visible label
+  label: "Whitespace",
+  // Fields the user need to fill out when adding an instance of the component
+  fields: [{
+    name: 'className', 
+    label: 'Whitespace Amount', 
+    widget: 'select', 
+    options: ['lines-1', 'lines-2', 'lines-3', 'lines-4', 'lines-5', 'lines-6'],
+    default: 'lines-1',
+  }],
+  // Pattern to identify a block as being an instance of this component
+  pattern: /^<div\sclass="([^"]*)"><\/div>$/,
+  // Function to extract data elements from the regexp match
+  fromBlock: function(match) {
+      return {
+          className: match[1],
+      };
+  },
+  // Function to create a text block from an instance of this component
+  toBlock: function(obj) {
+    return (
+      `<div class="${obj.className ? obj.className : ''}"></div>`
+    )
+  },
+  // Preview output for this component. Can either be a string or a React component
+  // (component gives better render performance)
+  toPreview: function(obj) {
+      return (
+        `<div class="${obj.className ? obj.className : ''}"></div>`
+        )
+  },
+}
+
+CMS.registerEditorComponent(youtube);
+CMS.registerEditorComponent(imageTitleClass);
+CMS.registerEditorComponent(fileLink);
+CMS.registerEditorComponent(whitespace);
