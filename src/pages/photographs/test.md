@@ -2,39 +2,61 @@
 templateKey: work-page
 title: '"Dream" Series: Large-format Photographic Construction '
 date: 2020-03-30T23:00:00.000Z
-image: /assets/yg-no.4.jpg
+image: /assets/yg-no.4-360ppi.jpg
 ---
+# Original Series
 
+<!--StartFragment-->
 
-### *Dream, No.1*, 4” x 5” B&W film, 2020, digitally scanned
+*Dream, No.1*, 4” x 5” B&W film, 2020, digitally scanned:
 
-![Dream Series No.1](/assets/yg-no.1.jpg "Dream Series No.1")
+![Dream Series No.1](/assets/yg-no.1-360ppi.jpg "Dream Series No.1")
 
-### *Dream, No.2*, 4” x5” B&W film, 2020, digitally scanned
+<!--EndFragment-->
 
-![Dream Series No.2](/assets/yg-no.4.jpg "Dream Series No.2")
+<!--StartFragment-->
 
-### *Dream, No.3*, 4” x5” B&W film, 2020, digitally scanned
+*Dream, No.2*, 4” x5” B&W film, 2020, digitally scanned:
 
-![Dream Series No.3](/assets/yg-no.3.jpg "Dream Series No.3")
+![Dream Series No.2](/assets/yg-no.4-360ppi.jpg "Dream Series No.2")
 
-### Additional Works (Practice)
+<!--EndFragment-->
 
-![Additional Work 1](/assets/yg-additional-1.jpg "Additional Work 1")
+<!--StartFragment-->
 
-![Additional Work 2](/assets/yg-additional2.jpg "Additional Work 2")
+*Dream, No.3*, 4” x5” B&W film, 2020, digitally scanned:
 
-![Additional Work 3](/assets/yg-10.jpg "Additional Work 3")
+![Dream Series No.3](/assets/yg-no.3-360ppi.jpg "Dream Series No.3")
 
-![Additional Work 4](/assets/yg-no.2.jpg "Additional Work 4")
+<!--EndFragment-->
 
-![Additional Work 5](/assets/yg-no.5.jpg "Additional Work 5")
+<!--StartFragment-->
 
-### Contact Sheets
+# Additional Works (Practice)
+
+![Additional Work 1](/assets/yg-additional-1-360ppi.jpg "Additional Work 1")
+
+![Additional Work 2](/assets/yg-additional2-360ppi.jpg "Additional Work 2")
+
+![Additional Work 3](/assets/yg-10-360ppi.jpg "Additional Work 3")
+
+![Additional Work 4](/assets/yg-no.5-360ppi.jpg "Additional Work 4")
+
+![Additional Work 5](/assets/yg-no.2-360ppi.jpg "Additional Work 5")
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+# Contact Sheets
 
 ![Dream Contact Sheet 1](/assets/yg-contact-sheet-01.jpg "Dream Contact Sheet 1")
 
 ![Dream Contact Sheet 2](/assets/yg-contact-sheet-02.jpg "Dream Contact Sheet 2")
+
+<!--EndFragment-->
+
+<!--StartFragment-->
 
 # Artist Statement
 
@@ -56,6 +78,8 @@ Each of the series is of double or more exposures. I made the lighting effects b
 
 <!--EndFragment-->
 
+<!--EndFragment-->
+
 # Critical Reflection
 
-[Dream Reflection](/assets/dream-critical-reflection.pdf)
+[Click here to read and download the critical reflection essay for "Dream"](/assets/dream-critical-reflection.pdf)
