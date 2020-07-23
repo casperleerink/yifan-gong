@@ -26,7 +26,7 @@ One series No. 3, 24” x 36”, acrylic on canvas:
 
 <div class="lines-1"></div>
 
-### Detail of One No. 1
+# Detail of One No. 1
 
 ![Flame of One No.1](/assets/dsc_2664_副本.jpg "Flame of One No.1")
 
@@ -34,13 +34,13 @@ One series No. 3, 24” x 36”, acrylic on canvas:
 
 # Artist Statement
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -80,9 +80,9 @@ One series No. 3, 24” x 36”, acrylic on canvas:
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -661,9 +661,9 @@ One series No. 3, 24” x 36”, acrylic on canvas:
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -689,7 +689,7 @@ One series No. 3, 24” x 36”, acrylic on canvas:
 	mso-font-kerning:1.0pt;
 	mso-ansi-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
