@@ -32,13 +32,13 @@ image: /assets/正面_副本.jpg
 
 <div class="lines-1"></div>
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -78,9 +78,9 @@ image: /assets/正面_副本.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -659,9 +659,9 @@ image: /assets/正面_副本.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -687,7 +687,7 @@ image: /assets/正面_副本.jpg
 	mso-font-kerning:1.0pt;
 	mso-ansi-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -700,3 +700,21 @@ Then I used my styled brushwork with raw pigments directly squeezed from the tub
 Because it was created during the COVID-19 pandemic period, within the social context of this worldwide disaster, I was also influenced and inspired by the coronavirus. Some of those round shapes also refer to the virus. As I wrote above, the universe is so magical and incredible that I have found there is some mysterious relevance between the macro cosmos and the microcosmos. Watching my painting, whether it reminds you of stars or coronavirus, its stable existence is already there. Even sometimes bad things can be converted to good things, vice versa. One common sense is bacteria and viruses have a symbiosis with animals. This means we human beings will not live long without them. The result all depends on how we regard them and how we deal with this relationship. Just like how I deal with my stream-of-consciousness, as long as we take the initiative, we will eventually find its new balance to let everything be back to the splendid “unified opposition”—the infinitely gorgeous COSMOS. This is just how I got the painting of COSMOS done.
 
 <!--EndFragment-->
+
+<div class="lines-1"></div>
+
+# Side Views
+
+<div class="lines-1"></div>
+
+![Top Side](/assets/上侧面用这个.jpg "Top Side")
+
+![Bottom Side](/assets/下面1_副本.jpg "Bottom Side")
+
+![Right Side](/assets/右侧面_副本.jpg "Right Side")
+
+![Left Side](/assets/左侧面_副本.jpg "Left Side")
+
+![Top Right Side](/assets/右上角.jpg "Top Right Side")
+
+![Bottom Left Side](/assets/左下角.jpg "Bottom Left Side")
