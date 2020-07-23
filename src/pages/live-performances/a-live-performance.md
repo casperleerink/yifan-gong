@@ -4,7 +4,9 @@ title: 10-min Devised Piece (Theatre Live Recording)
 date: 2018-12-03T08:00:00.000Z
 image: /assets/48038501_10157406093167985_7053698599233781760_o.jpg
 ---
-# Live Recording
+# Full Live Recording
+
+**Role: Deviser, dancer, choreographer, costume & prop designer, music director**
 
 <div class="lines-1"></div>
 
