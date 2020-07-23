@@ -41,3 +41,27 @@ Number 1 of “One” series consists of a dark, gloomy, sticky and cold-tone ba
 <div class="lines-1"></div>
 
 # Making Process
+
+
+
+![One series No.2  In Process](/assets/微信图片_20200723161301.jpg "One series No.2  In Process")
+
+<div class="lines-1"></div>
+
+
+
+
+
+
+
+![One series No.1 In Process](/assets/微信图片_20200723161352.jpg "One series No.1 In Process")
+
+![One series No.1 In Process](/assets/微信图片_20200723161355.jpg "One series No.1 In Process")
+
+![One series No.1 In Process](/assets/微信图片_20200723161358.jpg "One series No.1 In Process")
+
+<div class="lines-1"></div>
+
+![One series No.3 In Process](/assets/微信图片_20200723161401.jpg "One series No.3 In Process")
+
+![One series No.3 In Process](/assets/微信图片_20200723161403.jpg "One series No.3 In Process")
