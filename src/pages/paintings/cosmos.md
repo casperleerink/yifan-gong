@@ -718,3 +718,11 @@ Because it was created during the COVID-19 pandemic period, within the social co
 ![Top Right Side](/assets/右上角.jpg "Top Right Side")
 
 ![Bottom Left Side](/assets/左下角.jpg "Bottom Left Side")
+
+# Making Process
+
+<div class="lines-1"></div>
+
+![COSMOS In Process](/assets/微信图片_20200723164416.jpg "COSMOS In Process")
+
+![COSMOS In Process](/assets/微信图片_20200723164419.jpg "COSMOS In Process")
