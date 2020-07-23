@@ -14,11 +14,11 @@ image: /assets/48038501_10157406093167985_7053698599233781760_o.jpg
 
 <div class="lines-1"></div>
 
-# Reflection and Documentation 
+# Reflection and Documentation
 
 <div class="lines-1"></div>
 
-[10-min Devised Piece Reflection](/assets/reflection-of-project-2.pdf)
+[Click here to read or download the Reflection for 10-min Devised Piece](/assets/reflection-of-project-2.pdf)
 
 <div class="lines-1"></div>
 
