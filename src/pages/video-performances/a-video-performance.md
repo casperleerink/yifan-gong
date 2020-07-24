@@ -1,35 +1,35 @@
 ---
 templateKey: work-page
-title: this video!
-date: 2020-07-14T07:02:15.526Z
-image: /assets/yifan-gong.jpg
+title: ADRIFT
+date: 2020-03-20T02:36:09.740Z
+image: /assets/微信图片_20200724103923.jpg
 ---
-# Project Details
+# Motion Captured Animation Short (Unfinished) 
 
-This is the description of the work
+<div class="lines-1"></div>
 
-![](/assets/yifan-gong.jpg)
+**Original Music 坠 (Fall) is composed by Yifan Gong**
 
-# Process
+**Role: Choreographer, dancer, cinematographer, music director**
 
-Description of the creation etc...
+<div class="lines-1"></div>
 
-# Artist Statement
+<div class="video-container"><iframe src="https://www.youtube.com/embed/https://youtu.be/c24jw9bCYQM" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-My statement!
+<div class="lines-1"></div>
 
+# Reflection and Documentation
 
+<div class="lines-1"></div>
 
-# Another section
+[Click here to read or download the Reflective Documentation of ADRIFRT](/assets/reflection.pdf)
 
-another section text
+<div class="lines-1"></div>
 
+# Making Process: Choreography
 
+<div class="lines-1"></div>
 
-# Documentation
+**https://drive.google.com/drive/folders/1tdvg9dulf5yXKRlU2BIvrszdUtd_CI5E**
 
-Documentation text
-
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/0JCUH5daCCE" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="lines-1"></div>
