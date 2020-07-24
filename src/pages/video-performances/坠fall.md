@@ -42,6 +42,26 @@ image: /assets/海报1.jpg
 
 <div class="lines-1"></div>
 
+# Awards and Selections
+
+<div class="lines-1"></div>
+
+**2019 Canada Shorts Award of Merit:**
+
+<div class="lines-1"></div>
+
+![2019 Canada Shorts Award of Merit](/assets/2019-canada-shorts-award-of-merit-certificate.jpg "2019 Canada Shorts Award of Merit Certificate")
+
+<div class="lines-1"></div>
+
+**Semi-finalist of International Moving Film Festival 2019:**
+
+<div class="lines-1"></div>
+
+![Semi-finalist of International Moving Film Festival 2019](/assets/130.jpg "IMFF Certificate")
+
+<div class="lines-1"></div>
+
 # B-roll/In-process Vlog
 
 <div class="lines-1"></div>
