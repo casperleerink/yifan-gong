@@ -18,7 +18,7 @@ image: /assets/48038501_10157406093167985_7053698599233781760_o.jpg
 
 <div class="lines-1"></div>
 
-[Click here to read or download the Reflection for 10-min Devised Piece](/assets/reflection-of-project-2.pdf)
+[Click here to read or download the Reflection on 10-min Devised Piece](/assets/reflection-of-project-2.pdf)
 
 <div class="lines-1"></div>
 
