@@ -14,17 +14,17 @@ This is **Yifan Gong**, BFA in Theatre and Visual Arts graduated from the Univer
 
 <div class="lines-1"></div>
 
-# Artist Statement 
+# Artist Statement
 
 <div class="lines-1"></div>
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -64,9 +64,9 @@ This is **Yifan Gong**, BFA in Theatre and Visual Arts graduated from the Univer
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 9]><xml>
+<!--\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -645,9 +645,9 @@ This is **Yifan Gong**, BFA in Theatre and Visual Arts graduated from the Univer
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\[endif]-->
+</xml><!\\[endif]-->
 
-<!--\[if gte mso 10]>
+<!--\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -673,7 +673,7 @@ This is **Yifan Gong**, BFA in Theatre and Visual Arts graduated from the Univer
 	mso-font-kerning:1.0pt;
 	mso-ansi-language:EN-US;}
 </style>
-<!\[endif]-->
+<!\\[endif]-->
 
 <!--StartFragment-->
 
@@ -682,6 +682,14 @@ Are you living alone? Do you enjoy your loneliness? As an interdisciplinary arti
 I paint with different materials and acrylic paints that are directly squeezed from the tube to make expressive marks, color chunks and color chaos. I often extract my aloneness by a brighter blob contrasted with a darker background onto the canvas. The strong feeling of isolation also influences my photography. There are always many small and inconspicuous but solid and real things or moments captured by my camera, and this is how I observe the world. I also express this feeling within my choreography. One feature of my choreography is that the movements always include twisted limbs and convex/concave body. There is a performance making strategy called devising. A devised piece means that its script or performance score originates from collaborative and improvisatory work by a performing ensemble. It keeps an equal significance of each individual while leading to a high collaboration. One advantage of using devising as a method to create performances is that when I join in a devised ensemble, I feel a strong sense of belonging without having my independent personality ignored. Everybody is separately doing their own tasks under a certain structure, working towards the same goal, but no one is alienated. I not only make devised live performances but also make films referencing my theatre devising experience. Typically, when I was producing devised theatre or experimental films by this approach, I hardly feel abandoned but encouraged. Do you still feel that loneliness is making you unhinged? Find my artworks and do not hesitate to join my devised ensemble!
 
 <!--EndFragment-->
+
+<div class="lines-1"></div>
+
+# CV
+
+<div class="lines-1"></div>
+
+[Click here to read or download Yifan Gong's CV](/assets/yifan-gong-cv.pdf)
 
 <div class="lines-1"></div>
 
