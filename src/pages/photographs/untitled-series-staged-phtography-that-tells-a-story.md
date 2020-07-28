@@ -1,6 +1,6 @@
 ---
 templateKey: work-page
-title: '"Untitled" Series: Staged Phtography That Tells a Story'
+title: '"Untitled" Series (2019): Staged Phtography That Tells a Story'
 date: 2019-12-04T16:00:00.000Z
 image: /assets/picture4.jpg
 ---
