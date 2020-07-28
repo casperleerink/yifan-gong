@@ -1,6 +1,6 @@
 ---
 templateKey: work-page
-title: Life Imitates Art?
+title: Life Imitates Art? (2019)
 date: 2019-04-24T16:00:00.000Z
 image: /assets/微信图片_20200723184224.jpg
 ---
