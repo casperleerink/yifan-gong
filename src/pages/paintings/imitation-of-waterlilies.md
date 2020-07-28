@@ -1,6 +1,6 @@
 ---
 templateKey: work-page
-title: Imitation of Waterlilies
+title: Imitation of Waterlilies (2019)
 date: 2019-03-13T16:00:00.000Z
 image: /assets/dsc_2766_副本.jpg
 ---
