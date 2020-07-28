@@ -1,6 +1,6 @@
 ---
 templateKey: work-page
-title: ADRIFT
+title: ADRIFT (2020)
 date: 2020-03-20T02:36:09.740Z
 image: /assets/微信图片_20200724103923.jpg
 ---
