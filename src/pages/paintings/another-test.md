@@ -1,6 +1,6 @@
 ---
 templateKey: work-page
-title: One Series
+title: One Series (2020)
 date: 2020-02-10T16:00:00.000Z
 image: /assets/dsc_2753_副本.jpg
 ---
