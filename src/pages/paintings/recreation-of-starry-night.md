@@ -1,6 +1,6 @@
 ---
 templateKey: work-page
-title: Recreation of Starry Night
+title: Recreation of Starry Night (2019)
 date: 2019-10-08T16:00:00.000Z
 image: /assets/dsc_2647_副本.jpg
 ---
