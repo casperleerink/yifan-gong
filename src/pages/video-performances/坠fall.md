@@ -66,7 +66,9 @@ image: /assets/海报1.jpg
 
 <div class="lines-1"></div>
 
-**https://b23.tv/hZqcnS**
+**Please click the link below to watch the video:**
+
+**[https://b23.tv/hZqcnS](**https://b23.tv/hZqcnS**)**
 
 <div class="lines-1"></div>
 
