@@ -3,11 +3,11 @@
 $font-stack: 'Roboto', sans-serif;
 $background-color: rgb(255, 255, 255);
 $background-color-header: rgba(255, 255, 255, 0.95);
-$background-color-header-landing: rgba(255, 255, 255, 0.2);
+$background-color-header-landing: rgba(100, 100, 100, 0.5);
 $text-color-dark: #000;
-$text-color: #888;
+$text-color: #666;
 $text-color-light: #aaa;
-$text-color-lighter: #ddd;
+$text-color-lighter: #eee;
 $background-color-2: #eee;
 
 
@@ -28,7 +28,31 @@ $desktop-width: 1024px;
     @media (min-width: #{$desktop-width}) {
       @content;
     }
-  }
+}
+
+@mixin table-of-contents {
+    .table-of-contents {
+        display: none;
+        @include desktop {
+            display: block;
+        }
+        position: fixed;
+        width: 18%;
+        top: 5rem;
+        left: 1rem;
+        color: $text-color-light;
+        font-size: 0.9rem;
+        text-emphasis: emphasis;
+        ul {
+            margin: 0;
+            padding: 0;
+            li {
+                padding: 0.5rem 0;
+                // line-height: 2rem;
+            }
+        }
+    }
+}
 
 * {
     box-sizing: border-box;
@@ -250,11 +274,16 @@ header {
             }
         }
     }
+    main {
+        padding: 0;
+    }
     .img-container {
-        // background-color: white;
         text-align: center;
         img {
-            width: 50%;
+            width: 60%;
+            @include mobile {
+                width: 100%;
+            }
         }
     }
 }
@@ -266,6 +295,7 @@ main {
     padding: 1rem;
 
     .about-container {
+        @include table-of-contents();
         @include desktop {
             padding-left: 20%;
             padding-right: 20%;
@@ -276,29 +306,22 @@ main {
         img {
             width: 100%;
         }
-    }
-    .work-page-container {
-        .table-of-contents {
-            display: none;
-            @include desktop {
-                display: block;
+        h1, h2, h3, h4, h5, h6 {
+            a {
+                cursor: inherit;
+                pointer-events: none;
             }
-            position: fixed;
-            width: 18%;
-            top: 5rem;
-            left: 1rem;
-            color: $text-color-light;
-            font-size: 0.9rem;
-            text-emphasis: emphasis;
-            ul {
-                margin: 0;
-                padding: 0;
-                li {
-                    padding: 0.5rem 0;
-                    // line-height: 2rem;
-                }
+            ::before {
+                content: '';
+                display: block;
+                height:      5rem;
+                margin-top: -5rem;
+                visibility: hidden;
             }
         }
+    }
+    .work-page-container {
+        @include table-of-contents();
         @include desktop {
             padding-left: 20%;
             padding-right: 20%;

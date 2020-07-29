@@ -20,35 +20,37 @@ const youtube = {
     // Visible label
     label: "Youtube",
     // Fields the user need to fill out when adding an instance of the component
-    fields: [{name: 'id', label: 'Youtube Video ID', widget: 'string'}],
+    fields: [{name: 'url', label: 'Youtube Video URL', widget: 'string'}],
     // Pattern to identify a block as being an instance of this component
     pattern: /^<div class="video-container">.*youtube.com\/embed\/([^"]*).*<\/div>$/,
     // Function to extract data elements from the regexp match
     fromBlock: function(match) {
       return {
-        id: match[1]
+        url: `https://youtu.be/${match[1]}`
       };
     },
     // Function to create a text block from an instance of this component
     toBlock: function(obj) {
+      const id = youtube_parser(obj.url);
       return (
-        `<div class="video-container"><iframe src="https://www.youtube.com/embed/${obj.id}" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`
+        `<div class="video-container"><iframe src="https://www.youtube.com/embed/${id}" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`
       )
     },
     // Preview output for this component. Can either be a string or a React component
     // (component gives better render performance)
     toPreview: function(obj) {
+      const id = youtube_parser(obj.url);
         return (
-            `<div class="video-container"><iframe src="https://www.youtube.com/embed/${obj.id}" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`
+            `<div class="video-container"><iframe src="https://www.youtube.com/embed/${id}" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>`
         );
     },
 }
 
-// function youtube_parser(url){
-//   var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/;
-//   var match = url.match(regExp);
-//   return (match&&match[7].length==11) ? match[7] : '';
-// }
+function youtube_parser(url){
+  var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#\&\?]*).*/;
+  var match = url.match(regExp);
+  return (match&&match[7].length==11) ? match[7] : '';
+}
 
 const imageTitleClass = {
   label: 'Styled Image',

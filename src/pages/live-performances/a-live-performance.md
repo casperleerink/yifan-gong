@@ -10,7 +10,7 @@ image: /assets/48038501_10157406093167985_7053698599233781760_o.jpg
 
 <div class="lines-1"></div>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/https://youtu.be/b-fZyirWg0g" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/b-fZyirWg0g" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
