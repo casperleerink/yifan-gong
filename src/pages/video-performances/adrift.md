@@ -14,7 +14,7 @@ image: /assets/微信图片_20200724103923.jpg
 
 <div class="lines-1"></div>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/https://youtu.be/c24jw9bCYQM" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/c24jw9bCYQM" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
@@ -32,6 +32,6 @@ image: /assets/微信图片_20200724103923.jpg
 
 **Please cilck the Google Drive link below to watch the videos (for watch only):**
 
-**[https://drive.google.com/drive/folders/1tdvg9dulf5yXKRlU2BIvrszdUtd_CI5E](**https://drive.google.com/drive/folders/1tdvg9dulf5yXKRlU2BIvrszdUtd_CI5E**)**
+**[https://drive.google.com/drive/folders/1tdvg9dulf5yXKRlU2BIvrszdUtd_CI5E](https://drive.google.com/drive/folders/1tdvg9dulf5yXKRlU2BIvrszdUtd_CI5E)**
 
 <div class="lines-1"></div>
