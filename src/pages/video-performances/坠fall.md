@@ -14,7 +14,7 @@ image: /assets/海报1.jpg
 
 **All music is composed by Yifan Gong. All rights reserved.**
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/https://youtu.be/9fPPf8TtlT0" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/9fPPf8TtlT0" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
@@ -22,7 +22,7 @@ image: /assets/海报1.jpg
 
 <div class="lines-1"></div>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/https://youtu.be/D4qpuVWPHyI" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/D4qpuVWPHyI" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
@@ -30,7 +30,7 @@ image: /assets/海报1.jpg
 
 <div class="lines-1"></div>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/https://youtu.be/0Vt-vWPFq1s" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/0Vt-vWPFq1s" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
@@ -68,7 +68,7 @@ image: /assets/海报1.jpg
 
 **Please click the link below to watch the video:**
 
-**[https://b23.tv/hZqcnS](**https://b23.tv/hZqcnS**)**
+<https://b23.tv/hZqcnS>
 
 <div class="lines-1"></div>
 
