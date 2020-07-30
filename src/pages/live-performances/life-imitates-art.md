@@ -14,7 +14,7 @@ image: /assets/微信图片_20200723184224.jpg
 
 **Please click the link below to watch the recording:**
 
-**[https://b23.tv/BQHiig](**https://b23.tv/BQHiig**)**
+<https://b23.tv/BQHiig>
 
 <div class="lines-1"></div>
 
@@ -22,9 +22,9 @@ image: /assets/微信图片_20200723184224.jpg
 
 <div class="lines-1"></div>
 
-!["Life Imitates Art?" Poster 1](/assets/微信图片_20200723184224.jpg "\\\"Life Imitates Art?\\\" Poster 1")
+!["Life Imitates Art?" Poster 1](/assets/微信图片_20200723184224.jpg "\\\\"Life Imitates Art?\\\\" Poster 1")
 
-!["Life Imitates Art?" Poster 2](/assets/微信图片_20200723184228.jpg "\\\"Life Imitates Art?\\\" Poster 2")
+!["Life Imitates Art?" Poster 2](/assets/微信图片_20200723184228.jpg "\\\\"Life Imitates Art?\\\\" Poster 2")
 
 <div class="lines-1"></div>
 
