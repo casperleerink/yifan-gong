@@ -49,8 +49,10 @@ export const WorkTemplate = ({content, contentComponent}) => {
   });
   return (
     <div className="work-page-container">
-        <h1>{content.frontmatter.title}</h1>
-        <p>{content.frontmatter.date}</p>
+        <div className="work-title-section">
+          <h1>{content.frontmatter.title}</h1>
+          <p>{content.frontmatter.date}</p>
+        </div>
         <PageContent className={'content'} content={content.html} />
         <div className="table-of-contents" dangerouslySetInnerHTML={{ __html: content.tableOfContents }}/>
         <button className="top-link" href="" id="js-top">

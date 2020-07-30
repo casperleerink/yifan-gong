@@ -10,18 +10,18 @@ const Menu = () => {
   const handleToggle = () => {
     setMenuExpanded(!menuExpanded);
   };
-  useEffect(() => {    
-    // Update the document title using the browser API  
-    const navbar = document.getElementById('header');
-    const sticky = navbar.offsetTop;
-    window.onscroll = () => {
-      if (window.pageYOffset >= sticky) {
-        navbar.classList.add("sticky")
-      } else {
-        navbar.classList.remove("sticky");
-      }
-    };
-  });
+  // useEffect(() => {    
+  //   // Update the document title using the browser API  
+  //   const navbar = document.getElementById('header');
+  //   const sticky = navbar.offsetTop;
+  //   window.onscroll = () => {
+  //     if (window.pageYOffset >= sticky) {
+  //       navbar.classList.add("sticky")
+  //     } else {
+  //       navbar.classList.remove("sticky");
+  //     }
+  //   };
+  // });
   const data = useStaticQuery(graphql`
     query MenuQuery {
       videoPerformances: allMarkdownRemark(filter: {fields: {slug: {regex: "/video-performances/"}}}) {
@@ -102,7 +102,7 @@ const Menu = () => {
     </Link>
   );
   return (
-    <header className="header" id="header">
+    <header className="header sticky" id="header">
       <div className="title">
         <h1><Link to="/">Yifan Gong</Link></h1>
       </div>

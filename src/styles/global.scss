@@ -3,11 +3,14 @@
 $font-stack: 'Roboto', sans-serif;
 $background-color: rgb(255, 255, 255);
 $background-color-header: rgba(255, 255, 255, 0.95);
-$background-color-header-landing: rgba(100, 100, 100, 0.5);
+$background-color-header-landing: rgba(100, 100, 100, 0.7);
 $text-color-dark: #000;
 $text-color: #666;
 $text-color-light: #aaa;
 $text-color-lighter: #eee;
+$landing-page-color: rgb(192, 211, 236);
+$primary-color: rgb(192, 211, 236);
+$primary-color-text: rgb(56, 92, 109);
 $background-color-2: #eee;
 
 
@@ -49,6 +52,9 @@ $desktop-width: 1024px;
             li {
                 padding: 0.5rem 0;
                 // line-height: 2rem;
+                :hover {
+                    color: $text-color-dark;
+                }
             }
         }
     }
@@ -73,7 +79,7 @@ a {
     :hover {
         text-decoration: none;
         cursor: pointer;
-        // color: $text-color-light;
+        color: $text-color-light;
     }
 }
 ul {
@@ -83,6 +89,9 @@ ul {
 h1, h2, h3, h4, h5, h6 {
     margin: 0;
     padding: 0;
+}
+p {
+    line-height: 1.5rem;
 }
 
 .top-link {
@@ -126,7 +135,6 @@ h1, h2, h3, h4, h5, h6 {
         }
     }
 }
-
 // Text meant only for screen readers.
 .screen-reader-text {
     position: absolute;
@@ -163,19 +171,24 @@ header {
     width: 100%;
     float: left;
     background: $background-color-header;
-    // padding: 1rem;
-    // text-transform: uppercase;
     .title {
         width: 75%;
         float: left;
         padding: 1rem;
         @include desktop {
             width: 20%;
+            // text-align: center;
         }
         h1 {
             font-size: 1.8rem;
             padding: 0;
             margin: 0;
+            // border-bottom: 1px solid $text-color-dark;
+            border-radius: 0.25rem;
+            // box-shadow: 0px 2px 4px 2px rgba(0,0,0,0.1);
+            a:hover {
+                color: $primary-color-text;
+            }
         }
     }
     .bars {
@@ -187,6 +200,9 @@ header {
         cursor: pointer;
         @include desktop {
             display: none;
+        }
+        :hover {
+            color: $primary-color-text;
         }
     }
     nav {
@@ -211,7 +227,7 @@ header {
             }
             :hover {
                 // color: $text-color-light;
-                color: $text-color-dark;
+                color: $primary-color-text;
             }
         }
         .dropdown {
@@ -220,7 +236,7 @@ header {
                 background: $background-color-header;
                 position: absolute;
                 box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.2);
-                border-radius: 10%;
+                border-radius: 0.5rem;
                 z-index: 10 !important;
                 a {
                     float: none;
@@ -230,7 +246,7 @@ header {
                     padding: 0.5rem;
                     padding-top: 0.5rem;
                     :hover {
-                        color: $text-color-dark;
+                        color: $primary-color;
                     }
                 }
             }
@@ -263,16 +279,24 @@ header {
     min-width: 100vw;
     header {
         background: $background-color-header-landing;
-    }
-    a {
-        color: $text-color-lighter;
-    }
-    nav {
-        .dropdown {
-            .dropdown-content {
-                background: $background-color-header-landing;
+        .bars {
+            color: $landing-page-color;
+        }
+        nav {
+            .menu-item {
+                a:hover {
+                    color: $primary-color-text;
+                }
+            }
+            .dropdown {
+                .dropdown-content {
+                    background: $background-color-header-landing;
+                }
             }
         }
+    }
+    a {
+        color: $landing-page-color;
     }
     main {
         padding: 0;
@@ -280,7 +304,7 @@ header {
     .img-container {
         text-align: center;
         img {
-            width: 60%;
+            width: 100%;
             @include mobile {
                 width: 100%;
             }
@@ -306,6 +330,9 @@ main {
         img {
             width: 100%;
         }
+        a {
+            color: $primary-color-text;
+        }
         h1, h2, h3, h4, h5, h6 {
             a {
                 cursor: inherit;
@@ -326,11 +353,18 @@ main {
             padding-left: 20%;
             padding-right: 20%;
         }
+        .work-title-section {
+            // background-color: $primary-color;
+            border-radius: 5px;
+        }
         p {
             display: block;
         }
         img {
             width: 100%;
+        }
+        a {
+            color: $primary-color-text;
         }
         .content {
             h1, h2, h3, h4, h5, h6 {
@@ -395,6 +429,7 @@ main {
                     h3 {
                         font-size: 0.9rem;
                         padding: 0.5rem 0;
+                        // color: $primary-color-text;
                     }
                 }
             }
@@ -416,10 +451,10 @@ main {
                 width: 100%;
                 float: left;
                 // padding: 1rem;
-                margin-top: 0.5rem;
+                margin-top: 1.8rem;
                 a {
                     display: inline-block;
-                    background-color: $background-color-2;
+                    background-color: $primary-color;
                     padding: 1rem;
                 }
             }

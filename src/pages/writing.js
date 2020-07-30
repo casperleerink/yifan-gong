@@ -7,7 +7,7 @@ const WritingsPage = ({data}) => {
     const works = data.allMarkdownRemark.edges.map(({node}) => {
         return (
           <li key={node.frontmatter.title}>
-            <a href={node.frontmatter.file} style={{marginLeft: `${Math.random() * 50}%`}}>{node.frontmatter.title}</a>
+            <a href={node.frontmatter.file}>{node.frontmatter.title}</a>
           </li>
         )
     });

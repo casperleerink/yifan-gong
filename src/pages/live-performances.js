@@ -12,7 +12,6 @@ const LivePerformancesPage = ({data}) => {
                 <div className="title-excerpt">
                   <h2>{node.frontmatter.title}</h2>
                   <h3>{node.frontmatter.date}</h3>
-                  <p>{node.excerpt}</p>
                 </div>
               </Link>
           </div>

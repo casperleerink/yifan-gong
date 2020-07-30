@@ -12,17 +12,17 @@ image: /assets/dsc_2762_副本.jpg
 
 ***What Do You See?*, 24” x 48”, 2019, acrylic on canvas:**
 
-!["What Do You See?"](/assets/dsc_2762_副本.jpg "\\"What Do You See?\\"")
+![What Do You See?](/assets/dsc_2762_副本.jpg "What Do You See?")
 
 <div class="lines-1"></div>
 
 # Detailes
 
-!["What Do You See?" Detail 1](/assets/dsc_2673_副本.jpg "\\"What Do You See?\\" Detail 1")
+![What Do You See? Detail 1](/assets/dsc_2673_副本.jpg "What Do You See? Detail 1")
 
-!["What Do You See?" Detail 2](/assets/dsc_2675_副本.jpg "\\"What Do You See?\\" Detail 2")
+![What Do You See? Detail 2](/assets/dsc_2675_副本.jpg "What Do You See? Detail 2")
 
-!["What Do You See?" Detail 3](/assets/dsc_2676_副本.jpg "\\"What Do You See?\\" Detail 3")
+![What Do You See? Detail 3](/assets/dsc_2676_副本.jpg "What Do You See? Detail 3")
 
 <div class="lines-1"></div>
 
@@ -48,6 +48,6 @@ I applied paints with acrylic primer using foam brushes and make flows, which wa
 
 <div class="lines-1"></div>
 
-!["What Do You See?" In Process 1](/assets/微信图片_20200723170134.jpg "\\"What Do You See?\\" In Process 1")
+![What Do You See? In Process 1](/assets/微信图片_20200723170134.jpg "What Do You See? In Process 1")
 
-!["What Do You See?" In Process 2](/assets/微信图片_20200723170137.jpg "\\"What Do You See?\\" In Process 2")
+![What Do You See? In Process 2](/assets/微信图片_20200723170137.jpg "What Do You See? In Process 2")
