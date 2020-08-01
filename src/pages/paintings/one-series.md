@@ -10,11 +10,15 @@ image: /assets/dsc_2753_副本.jpg
 
 ***One series No. 1*, 24” x 30”, acrylic on canvas:**
 
+<div class="lines-1"></div>
+
 ![ One Series No.1](/assets/dsc_2748_副本.jpg " One Series No.1")
 
 <div class="lines-1"></div>
 
 ***One series No. 2*, 24” x 24”, acrylic on canvas:**
+
+<div class="lines-1"></div>
 
 ![ One Series No.2](/assets/dsc_2753_副本.jpg " One Series No.2")
 
@@ -22,17 +26,23 @@ image: /assets/dsc_2753_副本.jpg
 
 ***One series No. 3*, 24” x 36”, acrylic on canvas**:
 
+<div class="lines-1"></div>
+
 ![One series No. 3](/assets/dsc_2644_副本.jpg "One series No. 3")
 
 <div class="lines-1"></div>
 
 # Detail of One No. 1
 
+<div class="lines-1"></div>
+
 ![Flame of One No.1](/assets/dsc_2664_副本.jpg "Flame of One No.1")
 
 <div class="lines-1"></div>
 
 # Artist Statement
+
+<div class="lines-1"></div>
 
 <!--StartFragment-->
 
@@ -46,18 +56,26 @@ Number 1 of “One” series consists of a dark, gloomy, sticky and cold-tone ba
 
 # Making Process
 
+<div class="lines-1"></div>
+
 ![One series No.2  In Process](/assets/微信图片_20200723161301.jpg "One series No.2  In Process")
 
 <div class="lines-1"></div>
 
 ![One series No.1 In Process](/assets/微信图片_20200723161352.jpg "One series No.1 In Process")
 
+<div class="lines-1"></div>
+
 ![One series No.1 In Process](/assets/微信图片_20200723161355.jpg "One series No.1 In Process")
+
+<div class="lines-1"></div>
 
 ![One series No.1 In Process](/assets/微信图片_20200723161358.jpg "One series No.1 In Process")
 
 <div class="lines-1"></div>
 
 ![One series No.3 In Process](/assets/微信图片_20200723161401.jpg "One series No.3 In Process")
+
+<div class="lines-1"></div>
 
 ![One series No.3 In Process](/assets/微信图片_20200723161403.jpg "One series No.3 In Process")
