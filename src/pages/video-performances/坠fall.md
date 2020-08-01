@@ -4,7 +4,7 @@ title: 坠Fall (2019)
 date: 2019-08-04T16:00:00.000Z
 image: /assets/海报1.jpg
 ---
-# Overview 
+# Overview
 
 <div class="lines-1"></div>
 
@@ -12,8 +12,6 @@ image: /assets/海报1.jpg
 
 Have you ever had a dream in which you unconsciously slipped and fell down from the stairs? Have you ever dreamed that you forgot to take your umbrella when it was raining cats and dogs, then you drowned in the deep water? Or I wonder whether you are a tough person, you hardly cry in front of other people, but sometimes you suddenly wake up from a nightmare, with face covered by tears and pyjamas soaked in sweat?\
 Whether your answer is “Yes” or “No”, please follow me and let’s start a new dream journey in 坠（Fall）.
-
-Director Biography - Yifan Gong
 
 <!--EndFragment-->
 
