@@ -28,9 +28,9 @@ image: /assets/picture1.jpg
 
 <div class="lines-1"></div>
 
-![]()
+![Contact Sheet 1]( "Contact Sheet 1")
 
-![]()
+![Contact Sheet 2]( "Contact Sheet 2")
 
 <div class="lines-1"></div>
 
@@ -45,3 +45,17 @@ This series of photography I did is about landscape — landscape that emphasize
 <!--EndFragment-->
 
 <div class="lines-1"></div>
+
+# On Site
+
+<div class="lines-1"></div>
+
+![On site 1](/assets/微信图片_20200805215656.jpg "On site 1")
+
+<div class="lines-1"></div>
+
+![On site 2](/assets/微信图片_20200805215654.jpg "On site 2")
+
+<div class="lines-1"></div>
+
+![On site 3: The Turning Point of Canada-USA Border in Abbotsford](/assets/微信图片_20200805215651.jpg "On site 3: The Turning Point of Canada-USA Border in Abbotsford")
