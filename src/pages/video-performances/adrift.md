@@ -2,7 +2,7 @@
 templateKey: work-page
 title: ADRIFT (2020)
 date: 2020-03-20T02:36:09.740Z
-image: /assets/微信图片_20200724103923.jpg
+image: /assets/微信图片_20200805215649.jpg
 ---
 # Motion Captured Animation Short (Unfinished)
 
@@ -32,6 +32,12 @@ image: /assets/微信图片_20200724103923.jpg
 
 **Please cilck the Google Drive link below to watch the videos (for watch only):**
 
-**[https://drive.google.com/drive/folders/1tdvg9dulf5yXKRlU2BIvrszdUtd_CI5E](https://drive.google.com/drive/folders/1tdvg9dulf5yXKRlU2BIvrszdUtd_CI5E)**
+**<https://drive.google.com/drive/folders/1tdvg9dulf5yXKRlU2BIvrszdUtd_CI5E>**
 
 <div class="lines-1"></div>
+
+![In-process Choreography Still](/assets/微信图片_20200805215649.jpg "In-process Choreography Still")
+
+<div class="lines-1"></div>
+
+![In-process Choreography Still](/assets/微信图片_20200724103923.jpg "In-process Choreography Still")
