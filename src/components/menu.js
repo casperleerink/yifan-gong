@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect } from "react"
+import React, { useState} from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBars } from '@fortawesome/free-solid-svg-icons'
@@ -10,18 +10,6 @@ const Menu = () => {
   const handleToggle = () => {
     setMenuExpanded(!menuExpanded);
   };
-  // useEffect(() => {    
-  //   // Update the document title using the browser API  
-  //   const navbar = document.getElementById('header');
-  //   const sticky = navbar.offsetTop;
-  //   window.onscroll = () => {
-  //     if (window.pageYOffset >= sticky) {
-  //       navbar.classList.add("sticky")
-  //     } else {
-  //       navbar.classList.remove("sticky");
-  //     }
-  //   };
-  // });
   const data = useStaticQuery(graphql`
     query MenuQuery {
       videoPerformances: allMarkdownRemark(filter: {fields: {slug: {regex: "/video-performances/"}}}) {

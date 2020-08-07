@@ -5,12 +5,13 @@ $background-color: rgb(255, 255, 255);
 $background-color-header: rgba(255, 255, 255, 0.95);
 $background-color-header-landing: rgba(100, 100, 100, 0.7);
 $text-color-dark: #000;
-$text-color: #666;
+$text-color: rgb(37, 37, 37);
 $text-color-light: #aaa;
 $text-color-lighter: #eee;
 $landing-page-color: rgb(192, 211, 236);
 $primary-color: rgb(192, 211, 236);
 $primary-color-text: rgb(56, 92, 109);
+$secondary-color-text: rgb(165, 164, 150);
 $background-color-2: #eee;
 
 
@@ -174,7 +175,8 @@ header {
     .title {
         width: 75%;
         float: left;
-        padding: 1rem;
+        padding: 1.4rem;
+        border-right: 2px solid $primary-color-text;
         @include desktop {
             width: 20%;
             // text-align: center;
@@ -285,7 +287,7 @@ header {
         nav {
             .menu-item {
                 a:hover {
-                    color: $primary-color-text;
+                    color: $secondary-color-text;
                 }
             }
             .dropdown {
