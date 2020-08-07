@@ -11,7 +11,7 @@ $text-color-lighter: #eee;
 $landing-page-color: rgb(192, 211, 236);
 $primary-color: rgb(192, 211, 236);
 $primary-color-text: rgb(56, 92, 109);
-$secondary-color-text: rgb(165, 164, 150);
+$secondary-color-text: rgb(231, 231, 225);
 $background-color-2: #eee;
 
 
@@ -41,9 +41,10 @@ $desktop-width: 1024px;
             display: block;
         }
         position: fixed;
-        width: 18%;
+        width: 20%;
         top: 5rem;
-        left: 1rem;
+        left: 0;
+        padding: 1.4rem;
         color: $text-color-light;
         font-size: 0.9rem;
         text-emphasis: emphasis;
@@ -58,6 +59,21 @@ $desktop-width: 1024px;
                 }
             }
         }
+    }
+}
+
+@mixin styled-images {
+    img[src*="#half-left"] {
+        width: 50%;
+        margin-right: 50%;
+    }
+    img[src*="#middle"] {
+        width: 50%;
+        margin: 0 25%;
+    }
+    img[src*="#half-right"] {
+        width: 50%;
+        margin-left: 50%;
     }
 }
 
@@ -176,7 +192,6 @@ header {
         width: 75%;
         float: left;
         padding: 1.4rem;
-        border-right: 2px solid $primary-color-text;
         @include desktop {
             width: 20%;
             // text-align: center;
@@ -186,7 +201,9 @@ header {
             padding: 0;
             margin: 0;
             // border-bottom: 1px solid $text-color-dark;
-            border-radius: 0.25rem;
+            @include desktop {
+                border-right: 2px solid $primary-color-text;
+            }
             // box-shadow: 0px 2px 4px 2px rgba(0,0,0,0.1);
             a:hover {
                 color: $primary-color-text;
@@ -195,7 +212,7 @@ header {
     }
     .bars {
         font-size: 2rem;
-        margin: 1rem;
+        margin: 1.4rem;
         display: block;
         width: 20%;
         float: right;
@@ -322,6 +339,7 @@ main {
 
     .about-container {
         @include table-of-contents();
+        @include styled-images();
         @include desktop {
             padding-left: 20%;
             padding-right: 20%;
@@ -351,6 +369,7 @@ main {
     }
     .work-page-container {
         @include table-of-contents();
+        @include styled-images();
         @include desktop {
             padding-left: 20%;
             padding-right: 20%;
@@ -464,10 +483,11 @@ main {
     }
 }
 
-
+//generic styling as a result from netlify CMS
 .lines-1 { padding-top: 1rem; }
 .lines-2 { padding-top: 2rem; }
 .lines-3 { padding-top: 3rem; }
 .lines-4 { padding-top: 4rem; }
 .lines-5 { padding-top: 5rem; }
 .lines-6 { padding-top: 6rem; }
+

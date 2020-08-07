@@ -12,7 +12,7 @@ const Menu = () => {
   };
   const data = useStaticQuery(graphql`
     query MenuQuery {
-      videoPerformances: allMarkdownRemark(filter: {fields: {slug: {regex: "/video-performances/"}}}) {
+      videoPerformances: allMarkdownRemark(filter: {fields: {slug: {regex: "/video-performances/"}}}, sort: {fields: frontmatter___date, order: DESC}) {
         nodes {
           frontmatter {
             title
@@ -22,7 +22,7 @@ const Menu = () => {
           }
         }
       }
-      livePerformances: allMarkdownRemark(filter: {fields: {slug: {regex: "/live-performances/"}}}) {
+      livePerformances: allMarkdownRemark(filter: {fields: {slug: {regex: "/live-performances/"}}}, sort: {fields: frontmatter___date, order: DESC}) {
         nodes {
           frontmatter {
             title
@@ -32,7 +32,7 @@ const Menu = () => {
           }
         }
       }
-      music: allMarkdownRemark(filter: {fields: {slug: {regex: "/music/"}}}) {
+      music: allMarkdownRemark(filter: {fields: {slug: {regex: "/music/"}}}, sort: {fields: frontmatter___date, order: DESC}) {
         nodes {
           frontmatter {
             title
@@ -42,7 +42,7 @@ const Menu = () => {
           }
         }
       }
-      paintings: allMarkdownRemark(filter: {fields: {slug: {regex: "/paintings/"}}}) {
+      paintings: allMarkdownRemark(filter: {fields: {slug: {regex: "/paintings/"}}}, sort: {fields: frontmatter___date, order: DESC}) {
         nodes {
           frontmatter {
             title
@@ -52,7 +52,7 @@ const Menu = () => {
           }
         }
       }
-      photographs: allMarkdownRemark(filter: {fields: {slug: {regex: "/photographs/"}}}) {
+      photographs: allMarkdownRemark(filter: {fields: {slug: {regex: "/photographs/"}}}, sort: {fields: frontmatter___date, order: DESC}) {
         nodes {
           frontmatter {
             title
@@ -99,7 +99,7 @@ const Menu = () => {
         <li key="about" className="menu-item"><Link to="/about" activeClassName="link-active">Biography</Link></li>
         <li key="showreel" className="menu-item"><Link to="/showreel" activeClassName="link-active">Showreel</Link></li>
         <li key="video-performances" className="menu-item dropdown">
-          <Link to="/video-performances" activeClassName="link-active">Video</Link>
+          <Link to="/video-performances" activeClassName="link-active">Film/Video</Link>
           <div className="dropdown-content">
             {videoPerformances}
           </div>

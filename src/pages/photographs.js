@@ -33,7 +33,7 @@ export default PhotographsPage
 
 export const photographsPageQuery = graphql`
 query photograhpsQuery {
-    allMarkdownRemark(filter: {fields: {slug: {regex: "/photographs/"}}}) {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/photographs/"}}}, sort: {fields: frontmatter___date, order: DESC}) {
       edges {
         node {
           fields {

@@ -31,7 +31,7 @@ export default VideoPerformancesPage
 
 export const videoPerformancesPageQuery = graphql`
 query videoPerformancesQuery {
-    allMarkdownRemark(filter: {fields: {slug: {regex: "/video-performances/"}}}) {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/video-performances/"}}}, sort: {fields: frontmatter___date, order: DESC}) {
       edges {
         node {
           fields {

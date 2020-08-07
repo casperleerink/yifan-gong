@@ -67,7 +67,7 @@ const imageTitleClass = {
   toPreview: ({ alt, image, className }, getAsset, fields) => {
     const imageField = fields?.find(f => f.get('widget') === 'image');
     const src = getAsset(image, imageField);
-    return `<img src=${src || ''} alt=${alt || ''} class=${className || ''} />`;
+    return `<img src=${src || ''} alt=${alt || ''} title=${className || ''} />`;
   },
   pattern: /^!\[(.*)\]\((.*?)#(.*?)\)$/,
   fields: [

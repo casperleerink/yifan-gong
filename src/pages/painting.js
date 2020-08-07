@@ -33,7 +33,7 @@ export default PaintingsPage
 
 export const paintingsPageQuery = graphql`
 query paintingsQuery {
-    allMarkdownRemark(filter: {fields: {slug: {regex: "/paintings/"}}}) {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/paintings/"}}}, sort: {fields: frontmatter___date, order: DESC}) {
       edges {
         node {
           fields {

@@ -31,7 +31,7 @@ export default LivePerformancesPage
 
 export const livePerformancesPageQuery = graphql`
 query livePerformancesQuery {
-    allMarkdownRemark(filter: {fields: {slug: {regex: "/live-performances/"}}}) {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/live-performances/"}}}, sort: {fields: frontmatter___date, order: DESC}) {
       edges {
         node {
           fields {

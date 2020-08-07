@@ -33,7 +33,7 @@ export default MusicPage
 
 export const musicPageQuery = graphql`
 query musicQuery {
-    allMarkdownRemark(filter: {fields: {slug: {regex: "/music/"}}}) {
+    allMarkdownRemark(filter: {fields: {slug: {regex: "/music/"}}}, sort: {fields: frontmatter___date, order: DESC}) {
       edges {
         node {
           fields {
