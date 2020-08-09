@@ -78,4 +78,4 @@ image: /assets/微信图片_20200723184224.jpg
 
 <div class="lines-1"></div>
 
-[Click here to read or download the Reflective Documentation for "Life Imitates Art?"](/assets/yifan-thea452-phase-2-documentation.pdf)
+[Please click here to read or download the Reflective Documentation for "Life Imitates Art?"](/assets/yifan-thea452-phase-2-documentation.pdf)
