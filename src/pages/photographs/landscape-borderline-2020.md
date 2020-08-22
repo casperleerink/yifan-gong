@@ -1,6 +1,6 @@
 ---
 templateKey: work-page
-title: '"ZERO" Series: Landscape (2020)'
+title: '"ZERO" Series (2020): Landscape '
 date: 2020-02-13T16:00:00.000Z
 image: /assets/picture1.jpg
 ---
