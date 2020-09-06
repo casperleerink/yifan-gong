@@ -50,7 +50,7 @@ image: /assets/微信图片_20200723184224.jpg
 
 ![Life Imitates Art? Poster 1](/assets/微信图片_20200723184224.jpg "Life Imitates Art? Poster 1")
 
-![Life Imitates Art? Poster 2](/assets/微信图片_20200723184228.jpg "Life Imitates Art? Poster 2")
+![Life Imitates Art? Poster 2](/assets/微信图片_20200723184228.jpg#middle)
 
 <div class="lines-1"></div>
 
