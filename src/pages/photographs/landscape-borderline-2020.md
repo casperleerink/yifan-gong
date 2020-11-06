@@ -24,13 +24,11 @@ image: /assets/picture1.jpg
 
 <div class="lines-1"></div>
 
-# Contact Sheets
+# Original Negative Films
 
 <div class="lines-1"></div>
 
-![Contact Sheet 1]( "Contact Sheet 1")
-
-![Contact Sheet 2]( "Contact Sheet 2")
+![Contact Sheet 1](/assets/未标题-13_副本.jpg "Contact Sheet 1")
 
 <div class="lines-1"></div>
 
