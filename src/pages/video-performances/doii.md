@@ -1,10 +1,22 @@
 ---
 templateKey: work-page
 title: DoII
-date: 2021-02-18T12:06:46.289Z
+date: 2021-03-01T08:59:36.239Z
 image: /assets/微信图片_20210207201811.jpg
 ---
 # DoII (Original Film)
+
+<div class="lines-1"></div>
+
+To be released.
+
+<div class="lines-1"></div>
+
+# Official Trailer 
+
+<div class="lines-1"></div>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/O4lEewO6Hwo" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
@@ -38,4 +50,10 @@ image: /assets/微信图片_20210207201811.jpg
 
 <div class="lines-1"></div>
 
-![]()
+![DoII still 1](/assets/微信图片_20210301165554.png)
+
+![DoII still 2](/assets/微信图片_20210301165551.jpg)
+
+![DoII still 3](/assets/微信图片_20210301165549.jpg)
+
+![DoII still 4](/assets/微信图片_20210301165538.jpg)
