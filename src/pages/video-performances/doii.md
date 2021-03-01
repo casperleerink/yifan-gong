@@ -38,11 +38,11 @@ To be released.
 
 <div class="lines-1"></div>
 
-![DoII on-site still 1](/assets/微信图片_20210207194023.jpg)
+![DoII on-site still 1](/assets/微信图片_20210207194023.jpg#middle)
 
-![DoII on-site still 2](/assets/微信图片_20210207194040.jpg)
+![DoII on-site still 2](/assets/微信图片_20210207194040.jpg#middle)
 
-![DoII on-site still 3](/assets/微信图片_20210207194043.jpg)
+![DoII on-site still 3](/assets/微信图片_20210207194043.jpg#middle)
 
 <div class="lines-1"></div>
 
