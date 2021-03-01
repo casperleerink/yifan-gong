@@ -6,15 +6,11 @@ image: /assets/微信图片_20210207201811.jpg
 ---
 # DoII (Original Film)
 
-<div class="lines-1"></div>
-
 To be released.
 
 <div class="lines-1"></div>
 
 # Official Trailer 
-
-<div class="lines-1"></div>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/O4lEewO6Hwo" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
