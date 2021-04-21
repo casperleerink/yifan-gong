@@ -10,6 +10,18 @@ To be released by 2022.
 
 <div class="lines-1"></div>
 
+<div class="lines-1"></div>
+
+# Synopsis 
+
+<div class="lines-1"></div>
+
+This short film is actually a monologue. 
+The main character, Chain, is a young freshman who has been living with their best friend, a doll called Aris, since they was born. Besides Aris, Chain also lives with their father and their sister. Because Chain’s mother died in dystocia, the father became a violent control freak. The sister is also indifferent, as in her mind, it is Chain’s fault for their mother’s death. Chain has suffered from domestic violence and the lack of family’s love for such a long time and gradually becomes psychologically disordered. The tragedy seems to happen again as Chain grows up. 
+Note: Both of the two characters, Chain and Aris, are non-binary. The main actor (the dancer) and the director are identified as gay men.
+
+<div class="lines-1"></div>
+
 # Director/Artist Statement
 
 <div class="lines-1"></div>
