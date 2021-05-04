@@ -12,12 +12,20 @@ To be released by 2022.
 
 <div class="lines-1"></div>
 
-# Synopsis 
+# Synopsis (Short)
+
+<div class="lines-1"></div>
+
+DoII is an experimental short with postmodern dance sequences presented in it. It tells a story about domestic abuse, dual personality and ego. The two main characters, the doll called Aris and Chain, are two-in-one. Originating from a Chain's monologue, the narrative seems still to be a monologue but is way more than a monologue now. 
+
+<div class="lines-1"></div>
+
+# Synopsis (Long)
 
 <div class="lines-1"></div>
 
 This short film is actually a monologue. 
-The main character, Chain, is a young freshman who has been living with their best friend, a doll called Aris, since they was born. Besides Aris, Chain also lives with their father and their sister. Because Chain’s mother died in dystocia, the father became a violent control freak. The sister is also indifferent, as in her mind, it is Chain’s fault for their mother’s death. Chain has suffered from domestic violence and the lack of family’s love for such a long time and gradually becomes psychologically disordered. The tragedy seems to happen again as Chain grows up. 
+The main character, Chain, is a young freshman who has been living with their best friend, a doll called Aris, since they were born. Besides Aris, Chain also lives with their father and their sister. Because Chain’s mother died in dystocia, the father became a violent control freak. The sister is also indifferent since it is Chain’s fault for their mother’s death in her mind. Chain has suffered from domestic violence and the lack of family’s love for such a long time and gradually becomes psychologically disordered. The tragedy seems to happen again as Chain grows up. 
 Note: Both of the two characters, Chain and Aris, are non-binary. The main actor (the dancer) and the director are identified as gay men.
 
 <div class="lines-1"></div>
@@ -26,7 +34,7 @@ Note: Both of the two characters, Chain and Aris, are non-binary. The main actor
 
 <div class="lines-1"></div>
 
-<!--StartFragment-->[](javascript:void(0);)
+<!--StartFragment-->\[](javascript:void(0);)
 
 As the writer/director of the short experimental film “DoII”, I also served as the main choreographer and music composer. As you must have noticed, the special spelt “Doll”, does not simply refer to the doll, Aris, who appeared as one of the two main characters. It is Do I I, double “I” instead of double “L”. Not only the main character, Chain, is questioning themselves, “what do I do?” “Who am I” “What have I done?” “Who killed Aris?” “I killed whom?”..., but also I, the director, am questioning my audience: every coin has two sides, right? When we choose to be an angel, do we kill the other demon inside?
 
