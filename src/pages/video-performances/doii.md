@@ -6,6 +6,8 @@ image: /assets/微信图片_20210207201811.jpg
 ---
 # DoII (Original Film)
 
+![](/assets/微信图片_20210207201811.jpg)
+
 To be released by 2022.
 
 <div class="lines-1"></div>
@@ -34,7 +36,7 @@ Note: Both of the two characters, Chain and Aris, are non-binary. The main actor
 
 <div class="lines-1"></div>
 
-<!--StartFragment-->\[](javascript:void(0);)
+<!--StartFragment-->\\[](javascript:void(0);)
 
 As the writer/director of the short experimental film “DoII”, I also served as the main choreographer and music composer. As you must have noticed, the special spelt “Doll”, does not simply refer to the doll, Aris, who appeared as one of the two main characters. It is Do I I, double “I” instead of double “L”. Not only the main character, Chain, is questioning themselves, “what do I do?” “Who am I” “What have I done?” “Who killed Aris?” “I killed whom?”..., but also I, the director, am questioning my audience: every coin has two sides, right? When we choose to be an angel, do we kill the other demon inside?
 
