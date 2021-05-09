@@ -2,6 +2,12 @@
 templateKey: about-page
 image: /assets/yifan-gong.jpg
 ---
+# Super-short Bio
+
+Yifan Gong, a current PhD Art student at the Edinburgh College of Art, the University of Edinburgh, holds a BFA degree with distinction in Theatre and Visual Arts from the University of the Fraser Valley, Canada. He learned filmmaking at Shanghai Vancouver Film School and is now active as a versatile artist, actor and director.
+
+<div class="lines-1"></div>
+
 # Short Biography
 
 <div class="lines-1"></div>
