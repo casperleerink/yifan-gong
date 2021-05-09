@@ -4,6 +4,12 @@ title: COSMOS (2020)
 date: 2020-03-29T16:00:00.000Z
 image: /assets/正面_副本.jpg
 ---
+# Short Description
+
+Yifan named this painting “COSMOS” because he is into the charming harmony and chaos of the universe. He was also influenced and inspired by the COVID19. Some of those “stars” or “black holes” refer to the virus. Watching this painting, whether it reminds you of the macro-cosmos or the micro-cosmos, its stable existence is already there. Yifan hopes to provoke thinking towards watching a thing from various perspectives and how we make new balances.
+
+<div class="lines-1"></div>
+
 # Front View
 
 <div class="lines-1"></div>
