@@ -1,6 +1,6 @@
 ---
 templateKey: work-page
-title: Samsara
+title: Samsara (2019)
 date: 2019-05-20T16:00:00.000Z
 image: /assets/yifan-gong_samsara.jpg
 ---
