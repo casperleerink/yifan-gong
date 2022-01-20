@@ -4,6 +4,17 @@ title: '"Dream" Series (2020): Large-format Photographic Construction '
 date: 2020-03-30T23:00:00.000Z
 image: /assets/yg-no.4-360ppi.jpg
 ---
+# Honourable Mention
+
+<div class="lines-1"></div>
+
+*Dream* Series No.2, namely, *Forest Mist* has been awared in Monochrome Photography Awards 2021 with
+Honorable Mention in Amateur Photomanipulation category.
+
+![Forest Mist Honourable Mention Certificate](/assets/monoawards_certifcate_yifan_gong_1.jpg "Forest Mist Honourable Mention Certificate")
+
+<div class="lines-1"></div>
+
 # Original Series
 
 <!--StartFragment-->
