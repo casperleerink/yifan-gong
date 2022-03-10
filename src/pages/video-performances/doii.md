@@ -42,8 +42,6 @@ The story is about domestic abuse, dual personality and ego. The doll, Aris, is 
 
 As an audiovisual art studies researcher, I fully participated in the visual production as well as the sound design and music composition. From my perspective, the actions, choreography, visual editing, sound effects, harmonics, vocals and melodies are entangled and were mutually impacting each other. No element of them is the cause, nor the result. The film is an indivisible whole of audiovisual art, similar to the relationship between Chain and Aris.
 
-
-
 <div class="lines-1"></div>
 
 # Official Trailer
@@ -58,7 +56,7 @@ As an audiovisual art studies researcher, I fully participated in the visual pro
 
 ## Part. A
 
-<https://b23.tv/wOXtJZ>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/DxnilaZLES4" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Part. B
 
