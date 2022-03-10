@@ -6,11 +6,9 @@ image: /assets/微信图片_20210207201811.jpg
 ---
 # DoII (Original Film)
 
-![](/assets/微信图片_20210207201811.jpg)
-
-To be released by 2022.
-
 <div class="lines-1"></div>
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/93cT4vboVX0" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
