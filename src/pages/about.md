@@ -4,7 +4,7 @@ image: /assets/yifan-gong.jpg
 ---
 # Super-short Bio
 
-Yifan Gong, a current PhD Art student at the Edinburgh College of Art, the University of Edinburgh, holds a BFA degree with distinction in Theatre and Visual Arts from the University of the Fraser Valley, Canada. He learned filmmaking at Shanghai Vancouver Film School and is now active as a versatile artist, actor and director.
+Yifan Gong, a current PhD student at the Edinburgh College of Art, the University of Edinburgh, holds a BFA degree with distinction in Theatre and Visual Arts from the University of the Fraser Valley, Canada. He learned filmmaking at Shanghai Vancouver Film School and is now active as a versatile artist, actor and director.
 
 <div class="lines-1"></div>
 
@@ -14,11 +14,11 @@ Yifan Gong, a current PhD Art student at the Edinburgh College of Art, the Unive
 
 <!--StartFragment-->
 
-This is **Yifan Gong**, a current PhD Art student at the Edinburgh College of Art, the University of Edinburgh.
+This is **Yifan Gong**, a current PhD student in Immersive Media and Performing Arts at the Edinburgh College of Art, the University of Edinburgh.
 
 I hold a BFA degree with distinction in Theatre and Visual Arts from the University of the Fraser Valley, Canada. I started to take theatre and visual arts courses in January 2017 and learned filmmaking at Shanghai Vancouver Film School. 
 
-Through the four-year institutional training and practices in performance making, photography and painting, along with my self-led research and art-making explorations, I discovered my audiovisual synaesthesia. My artistic practices so far span devised theatre, digital performance, filmmaking, directing and acting for theatre/screen,  analogue and digital photography, acrylic painting, songwriting, dancing and choreography. I have a strong passion for integrating new technologies within contemporary arts and I would like to dig deeper into interdisciplinary and transdisciplinary art research under such a global environment with the rapid development of science and technology. In terms of making audiovisual performances, I am into non-linear storytelling, immersive experience, abstract performances and improvised performing arts. As wells as an E-portfolio, this personal website consists of collections of my outstanding artworks made by now, including digital documents, showreels and video recordings. I have written a primary research proposal showing my research interests titled *Audiovision & Immersion in New Media Art: Emotions, Personalities, Cross-modal Perceptions and Audiovisual Synaesthesia*. More details and descriptions of my art practices are directed by the navigation bars.
+My artistic practices so far span devised theatre, digital performance, filmmaking, directing and acting for theatre/screen,  analogue and digital photography, acrylic painting, songwriting, dancing and choreography. I have a strong passion for integrating new technologies within contemporary arts and I would like to dig deeper into interdisciplinary and transdisciplinary art research under such a global environment with the rapid development of science and technology. In terms of genres, I am into non-linear storytelling, immersive experience, abstract performances and improvised performing arts. As wells as an E-portfolio, this personal website consists of collections of my outstanding artworks made by now, including digital documents, showreels and video recordings. More details and descriptions of my art practices are directed by the navigation bars.
 
 <!--EndFragment-->
 
