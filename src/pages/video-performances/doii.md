@@ -60,7 +60,7 @@ As an audiovisual art studies researcher, I fully participated in the visual pro
 
 ## Part. B
 
-<https://b23.tv/YD2OKQ>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/4La3evvXCfE" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
