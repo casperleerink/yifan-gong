@@ -50,4 +50,4 @@ I paint with different materials and acrylic paints that are directly squeezed f
 
 <div class="lines-1"></div>
 
-![Profile Picture](/assets/吸血鬼写真-13-可用-修无字_副本.jpg)
+![Profile Picture](/assets/dsc01939.jpg)
