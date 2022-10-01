@@ -8,7 +8,7 @@ image: /assets/yg-no.4-360ppi.jpg
 
 <div class="lines-1"></div>
 
-*Dream* Series No.2, namely, *Forest Mist* has been awared in Monochrome Photography Awards 2021 with
+*Dream* Series No.2, namely, *Forest Mist* has been awarded in Monochrome Photography Awards 2021 with
 Honorable Mention in Amateur Photomanipulation category.
 
 ![Forest Mist Honourable Mention Certificate](/assets/monoawards_certifcate_yifan_gong_1.jpg "Forest Mist Honourable Mention Certificate")
