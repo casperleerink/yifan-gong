@@ -1,3 +1,3 @@
 ---
-image: /assets/yifan-homepage.jpg
+image: /assets/img_3095.jpg
 ---
