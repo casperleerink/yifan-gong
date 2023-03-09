@@ -51,3 +51,5 @@ P﻿articipants: Yifan Gong and Chenli Wu
 <div class="lines-1"></div>
 
 # Yifan's Instant Notation
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Y0Mzp4qePbQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
