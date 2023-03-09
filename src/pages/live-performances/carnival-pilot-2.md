@@ -38,13 +38,13 @@ Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 
 <div class="lines-1"></div>
 
-# CP﻿2 Special Take
+## CP﻿2 Special Take
 
 P﻿articipants: Yifan Gong and Chenli Wu
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/_JMpMimE5-w" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-# CARNIVAL﻿ x DoII: Master Shot
+# *CARNIVAL*﻿ x *DoII*: Master Shot
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ZNj4Ic91KOs" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
