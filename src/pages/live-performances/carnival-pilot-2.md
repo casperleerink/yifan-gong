@@ -47,3 +47,7 @@ P﻿articipants: Yifan Gong and Chenli Wu
 # CARNIVAL﻿ x DoII: Master Shot
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ZNj4Ic91KOs" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="lines-1"></div>
+
+# Yifan's Instant Notation
