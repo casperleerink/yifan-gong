@@ -56,6 +56,18 @@ Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 
 <div class="lines-1"></div>
 
+![](/assets/左侧细节.jpg)
+
+![](/assets/中部.jpg)
+
+![](/assets/cw右侧细节.jpg)
+
+![](/assets/细节1.jpg)
+
+![](/assets/细节2.jpg)
+
+1. ![](/assets/细节3.jpg)
+
 ## CP﻿2 Special Take
 
 P﻿articipants: Yifan Gong and Chenli Wu
