@@ -68,6 +68,8 @@ Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 
 1. ![](/assets/细节3.jpg)
 
+<div class="lines-1"></div>
+
 ## CP﻿2 Special Take
 
 P﻿articipants: Yifan Gong and Chenli Wu
@@ -83,3 +85,19 @@ P﻿articipants: Yifan Gong and Chenli Wu
 # Yifan's Instant Notation
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Y0Mzp4qePbQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="lines-1"></div>
+
+# F﻿inal Drawing Presentation
+
+<div class="lines-1"></div>
+
+![](/assets/f全图.jpg)
+
+![](/assets/f左边细节.jpg)
+
+![](/assets/f右侧细节2.jpg)
+
+![](/assets/f中部细节.jpg)
+
+![](/assets/f中部细节2.jpg)
