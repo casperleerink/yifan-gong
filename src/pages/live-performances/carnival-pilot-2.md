@@ -32,9 +32,27 @@ Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 
 <div class="lines-1"></div>
 
+### D﻿rawing details after Yuan Liu's performance
+
+<div class="lines-1"></div>
+
+![](/assets/正面.jpg)
+
+![](/assets/细节.jpg)
+
+![](/assets/左侧细节-2-.jpg)
+
+![](/assets/右侧细节.jpg)
+
+<div class="lines-1"></div>
+
 ## Participant 3: Chenli Wu
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/luuC9ZGrp3Y" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="lines-1"></div>
+
+### D﻿rawing details after Chenli Wu's performance
 
 <div class="lines-1"></div>
 
