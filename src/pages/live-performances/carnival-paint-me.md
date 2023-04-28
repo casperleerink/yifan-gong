@@ -30,7 +30,7 @@ image: /assets/img_4101.jpg
 
 ![](/assets/头朝下好看2-拷贝.jpg)
 
-# S﻿tills - Drawing Sequences
+# S﻿tills - Drawing sequences
 
 ![](/assets/_dsc6924-拷贝.jpg)
 
