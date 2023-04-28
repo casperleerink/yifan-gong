@@ -31,3 +31,15 @@ image: /assets/img_4101.jpg
 ![](/assets/头朝下好看2-拷贝.jpg)
 
 # S﻿tills - Drawing Sequences
+
+![](/assets/_dsc6924-拷贝.jpg)
+
+![](/assets/_dsc6927-拷贝.jpg)
+
+![](/assets/_dsc6957-拷贝.jpg)
+
+![](/assets/_dsc6997-拷贝.jpg)
+
+![](/assets/_dsc7054-拷贝.jpg)
+
+![](/assets/_dsc7059-拷贝.jpg)
