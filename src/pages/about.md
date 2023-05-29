@@ -28,7 +28,7 @@ As well as an E-portfolio, this personal website consists of collections of my o
 
 <div class="lines-1"></div>
 
-# Artist Statement
+# Artist Statement (old)
 
 <div class="lines-1"></div>
 
@@ -46,7 +46,7 @@ I paint with different materials and acrylic paints that are directly squeezed f
 
 <div class="lines-1"></div>
 
-[Please click here to read or download Yifan Gong's CV](/assets/yifan-gong-cv-2022.docx)
+[Please click here to read or download Yifan Gong's CV](/assets/yifan-gong-cv-2023.pdf)
 
 <div class="lines-1"></div>
 
