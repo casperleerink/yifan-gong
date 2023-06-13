@@ -76,9 +76,17 @@ P﻿articipants: Yifan Gong and Chenli Wu
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/_JMpMimE5-w" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+### S﻿pecial take side cam
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/FaTRp8l0xQE" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ## *CARNIVAL*﻿ x *DoII*: Master Shot
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ZNj4Ic91KOs" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+### CARNIVAL﻿ x DoII side cam
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/1W4rduB-3y4" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ## Yifan's Instant Notation
 
