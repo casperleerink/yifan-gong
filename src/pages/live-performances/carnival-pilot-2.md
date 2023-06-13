@@ -66,7 +66,7 @@ Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 
 ![](/assets/细节2.jpg)
 
-1. ![](/assets/细节3.jpg)
+![](/assets/细节3.jpg)
 
 <div class="lines-1"></div>
 
@@ -76,19 +76,19 @@ P﻿articipants: Yifan Gong and Chenli Wu
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/_JMpMimE5-w" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-# *CARNIVAL*﻿ x *DoII*: Master Shot
+## *CARNIVAL*﻿ x *DoII*: Master Shot
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ZNj4Ic91KOs" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
-# Yifan's Instant Notation
+## Yifan's Instant Notation
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Y0Mzp4qePbQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
-# F﻿inal Drawing Presentation
+## F﻿inal Drawing Presentation
 
 <div class="lines-1"></div>
 
