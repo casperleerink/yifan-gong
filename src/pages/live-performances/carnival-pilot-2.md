@@ -24,13 +24,9 @@ Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/8KdXT2xBujA" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="lines-1"></div>
-
 ## Participant 2: Yuan Liu
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ovinyGm8AnA" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<div class="lines-1"></div>
 
 ### D﻿rawing details after Yuan Liu's performance
 
@@ -44,17 +40,11 @@ Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 
 ![](/assets/右侧细节.jpg)
 
-<div class="lines-1"></div>
-
 ## Participant 3: Chenli Wu
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/luuC9ZGrp3Y" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="lines-1"></div>
-
 ### D﻿rawing details after Chenli Wu's performance
-
-<div class="lines-1"></div>
 
 ![](/assets/左侧细节.jpg)
 
@@ -68,8 +58,6 @@ Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 
 ![](/assets/细节3.jpg)
 
-<div class="lines-1"></div>
-
 ## CP﻿2 Special Take
 
 P﻿articipants: Yifan Gong and Chenli Wu
@@ -80,17 +68,11 @@ P﻿articipants: Yifan Gong and Chenli Wu
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ZNj4Ic91KOs" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="lines-1"></div>
-
 ## Yifan's Instant Notation
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Y0Mzp4qePbQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-<div class="lines-1"></div>
-
 ## F﻿inal Drawing Presentation
-
-<div class="lines-1"></div>
 
 ![](/assets/f全图.jpg)
 
