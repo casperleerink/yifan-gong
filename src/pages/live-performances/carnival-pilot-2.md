@@ -24,9 +24,17 @@ Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/8KdXT2xBujA" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+### CARNIVAL Pilot 2 Yifan side cam
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/DvB1hJiCJxw" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ## Participant 2: Yuan Liu
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ovinyGm8AnA" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+### CARNIVAL Pilot 2 Yuan Liu side cam
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/cPkQrw98u8E" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### D﻿rawing details after Yuan Liu's performance
 
@@ -43,6 +51,10 @@ Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 ## Participant 3: Chenli Wu
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/luuC9ZGrp3Y" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+### CARNIVAL Pilot 2 Chenli Wu side cam
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/qgmhkfas5jc" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ### D﻿rawing details after Chenli Wu's performance
 
