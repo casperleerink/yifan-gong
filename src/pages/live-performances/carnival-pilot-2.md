@@ -14,7 +14,15 @@ Yifan Gong
 Documentation Operator:
 Xin Wei, Yifan Gong
 
-Participants: Yifan Gong, Yuan Liu and Chenli Wu. 
+Participants: Yifan Gong, Yuan Liu and Chenli Wu.
+
+<div class="lines-1"></div>
+
+ 
+
+# *CARNIVAL Pilot 2* Concentrated Edition 
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/-7bHFeI_QY4" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
