@@ -4,11 +4,11 @@ title: "Digital Photography: Still Life (2019)"
 date: 2019-10-31T16:00:00.000Z
 image: /assets/5.jpg
 ---
-# Digital Prints
+## Digital Prints
 
 <div class="lines-1"></div>
 
-***Still Life*, 17” x 22”, 2019, digital full-frame, digital print:**
+***Still Life*, 17” x 22”, 2019, digital full-frame, digital print**
 
 <div class="lines-1"></div>
 
@@ -20,7 +20,7 @@ image: /assets/5.jpg
 
 <div class="lines-1"></div>
 
-***Still Life*, 8” x 10”, 2019, digital full-frame, digital print:**
+***Still Life*, 8” x 10”, 2019, digital full-frame, digital print**
 
 <div class="lines-1"></div>
 
@@ -32,7 +32,7 @@ image: /assets/5.jpg
 
 <div class="lines-1"></div>
 
-# Digital Images 
+## Digital Images
 
 <div class="lines-1"></div>
 
