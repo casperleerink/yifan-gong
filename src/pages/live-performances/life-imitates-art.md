@@ -4,7 +4,7 @@ title: Life Imitates Art? (2019)
 date: 2019-04-24T16:00:00.000Z
 image: /assets/微信图片_20200723184224.jpg
 ---
-# Devised Theatre Performance Full Recording
+## Devised Theatre Performance Full Recording
 
 <div class="lines-1"></div>
 
@@ -18,7 +18,7 @@ image: /assets/微信图片_20200723184224.jpg
 
 <div class="lines-1"></div>
 
-# Cast
+## Cast
 
 <div class="lines-1"></div>
 
@@ -44,7 +44,7 @@ image: /assets/微信图片_20200723184224.jpg
 
 <div class="lines-1"></div>
 
-# Posters
+## Posters
 
 <div class="lines-1"></div>
 
@@ -54,13 +54,13 @@ image: /assets/微信图片_20200723184224.jpg
 
 <div class="lines-1"></div>
 
-# Making Process & Behind the Scenes
+## Making Process & Behind the Scenes
 
 <div class="lines-1"></div>
 
 ### **Behind the Scenes No.1**
 
-**Please click the link below to watch the video of Behind the scenes No.1:**
+**Please click the link below to watch the video of Behind the Scenes No.1:**
 
 **<https://b23.tv/323G58>**
 
@@ -74,7 +74,7 @@ image: /assets/微信图片_20200723184224.jpg
 
 <div class="lines-1"></div>
 
-# Reflection and Documentation
+## Reflection and Documentation
 
 <div class="lines-1"></div>
 
