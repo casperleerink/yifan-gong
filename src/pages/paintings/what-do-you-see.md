@@ -10,7 +10,7 @@ image: /assets/dsc_2762_副本.jpg
 
 <div class="lines-1"></div>
 
-***What Do You See?*, 24” x 48”, 2019, acrylic on canvas:**
+**24” x 48”, 2019, acrylic on canvas**
 
 ![What Do You See?](/assets/dsc_2762_副本.jpg "What Do You See?")
 
