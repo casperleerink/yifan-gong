@@ -4,11 +4,11 @@ title: '"Untitled" Series (2019): Staged Phtography That Tells a Story'
 date: 2019-12-04T16:00:00.000Z
 image: /assets/picture4.jpg
 ---
-# *Untitled,* Main Work
+## *Untitled,* Main Work
 
 <div class="lines-1"></div>
 
-***Untitled, Main Work*, 30” x 44”, 2019, digital full-frame, digital print**
+**30” x 44”, 2019, digital full-frame, digital print**
 
 <div class="lines-1"></div>
 
@@ -16,7 +16,7 @@ image: /assets/picture4.jpg
 
 <div class="lines-1"></div>
 
-***Untitled, Additional works*, 8” x 11”, 2019, digital full-frame, digital print:**
+***Untitled, Additional works*, 8” x 11”, 2019, digital full-frame, digital print**
 
 <div class="lines-1"></div>
 
@@ -28,7 +28,7 @@ image: /assets/picture4.jpg
 
 <div class="lines-1"></div>
 
-# Artist Statement
+## Artist Statement
 
 <div class="lines-1"></div>
 
@@ -42,7 +42,7 @@ This photography depicts an extended story behind those images I did for project
 
 <div class="lines-1"></div>
 
-# On Site
+## On Site
 
 <div class="lines-1"></div>
 
@@ -54,7 +54,7 @@ This photography depicts an extended story behind those images I did for project
 
 <div class="lines-1"></div>
 
-# Test Demos
+## Test Demos
 
 <div class="lines-1"></div>
 
