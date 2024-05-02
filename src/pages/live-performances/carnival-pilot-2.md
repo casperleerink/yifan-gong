@@ -34,14 +34,6 @@ Yifan Gong’s 5-layer solo master cam:
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DvB1hJiCJxw" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-*CARNIVAL*﻿ x *DoII*: Master Shot
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/ZNj4Ic91KOs" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-CARNIVAL﻿ x DoII side cam
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/1W4rduB-3y4" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 Yifan's Instant Notation
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Y0Mzp4qePbQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
