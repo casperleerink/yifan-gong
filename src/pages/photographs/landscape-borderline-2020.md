@@ -4,11 +4,11 @@ title: '"ZERO" Series (2020): Landscape '
 date: 2020-02-13T16:00:00.000Z
 image: /assets/picture1.jpg
 ---
-# Original Series
+## Original Series
 
 <div class="lines-1"></div>
 
-**ZERO, 4” x 5” B&W film, 2020, digitally scanned, digital 17” x 22” print:**
+**ZERO, 4” x 5” B&W film, 2020, digitally scanned, digital 17” x 22” print**
 
 <div class="lines-1"></div>
 
@@ -24,7 +24,7 @@ image: /assets/picture1.jpg
 
 <div class="lines-1"></div>
 
-# Original Negative Films
+## Original Negative Films
 
 <div class="lines-1"></div>
 
@@ -32,7 +32,7 @@ image: /assets/picture1.jpg
 
 <div class="lines-1"></div>
 
-# Artist Statement
+## Artist Statement
 
 <div class="lines-1"></div>
 
@@ -44,7 +44,7 @@ This series of photography I did is about landscape — landscape that emphasize
 
 <div class="lines-1"></div>
 
-# On Site
+## On Site
 
 <div class="lines-1"></div>
 
