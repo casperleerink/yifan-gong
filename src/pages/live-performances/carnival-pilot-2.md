@@ -30,11 +30,11 @@ Participants: Yifan Gong, Yuan Liu, Chenli Wu, Sheng Zhu, Yingzi Feng
 
 ## Yifan Gong's Theatre of One full process
 
-Yifan Gong’s 5-layer solo master cam:
+Master cam:
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/8KdXT2xBujA" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
- Yifan Gong’s 5-layer solo side cam:
+Side cam:
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DvB1hJiCJxw" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -44,11 +44,11 @@ Yifan's Instant Notation
 
 ## Yuan Liu's Theatre of One full process
 
-Yuan Liu’s 5-layer solo master cam:
+Master cam:
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ovinyGm8AnA" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Yuan Liu’s 5-layer solo side cam:
+Side cam:
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/cPkQrw98u8E" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -64,11 +64,11 @@ Yuan Liu’s 5-layer solo side cam:
 
 ## Chenli Wu's Theatre of One full process
 
-C﻿henli Wu's 5-layer solo master cam:
+Master cam:
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/luuC9ZGrp3Y" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-C﻿henli Wu's 5-layer solo side cam: 
+Side cam: 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/qgmhkfas5jc" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
