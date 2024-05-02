@@ -4,13 +4,13 @@ title: One Series (2020)
 date: 2020-02-10T16:00:00.000Z
 image: /assets/dsc_2753_副本.jpg
 ---
-# Short Description 
+## Short Description
 
 Loneliness and anxiety seem to have occupied Yifan’s life. However, they bring artistic inspirations. This series are named “ONE” as Yifan believes Taoism. “The Tao produced One; One produced Two; Two produced Three; Three produced All things." One can be one, and it can also be everything. We all live only once, and we may be killed. However, we cannot be defeated as the end of ONE, is ETERNITY. 
 
 <div class="lines-1"></div>
 
-# Original Series
+## Original Series
 
 <div class="lines-1"></div>
 
@@ -38,7 +38,7 @@ Loneliness and anxiety seem to have occupied Yifan’s life. However, they bring
 
 <div class="lines-1"></div>
 
-# Detail of One No. 1
+## Detail of One No. 1
 
 <div class="lines-1"></div>
 
@@ -46,7 +46,7 @@ Loneliness and anxiety seem to have occupied Yifan’s life. However, they bring
 
 <div class="lines-1"></div>
 
-# Artist Statement
+## Artist Statement
 
 <div class="lines-1"></div>
 
@@ -60,7 +60,7 @@ Number 1 of “One” series consists of a dark, gloomy, sticky and cold-tone ba
 
 <div class="lines-1"></div>
 
-# Making Process
+## Making Process
 
 <div class="lines-1"></div>
 
