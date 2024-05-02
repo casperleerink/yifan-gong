@@ -16,13 +16,13 @@ Participants: Yifan Gong, Yuan Liu, Chenli Wu, Sheng Zhu, Yingzi Feng
 
 <div class="lines-1"></div>
 
-## *CARNIVAL Pilot 2* Concentrated Edition
+## *CARNIVAL Pilot 2* Concentrated Edition (Theatre of One)
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WIlGI2GUHz8" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
-## *CARNIVAL Pilot 1* and *Pilot 2* Duets Concentrated Edition
+## *CARNIVAL Pilot 1* and *Pilot 2* Duets Concentrated Edition (Intersubjectivity)
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/cutHCahNoU0" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
