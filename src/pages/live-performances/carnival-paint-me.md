@@ -4,7 +4,7 @@ title: "CARNIVAL: Paint ME"
 date: 2023-04-28T02:35:06.443Z
 image: /assets/img_4101.jpg
 ---
-# S﻿tills - Painting sequences
+## S﻿tills - Painting sequences
 
 <div class="lines-1"></div>
 
@@ -30,7 +30,7 @@ image: /assets/img_4101.jpg
 
 ![](/assets/头朝下好看2-拷贝.jpg)
 
-# S﻿tills - Drawing sequences
+## S﻿tills - Drawing sequences
 
 ![](/assets/_dsc6924-拷贝.jpg)
 
