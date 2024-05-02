@@ -4,7 +4,7 @@ title: '"Dream" Series (2020): Large-format Photographic Construction '
 date: 2020-03-30T23:00:00.000Z
 image: /assets/yg-no.4-360ppi.jpg
 ---
-# Honourable Mention
+## Honourable Mention
 
 <div class="lines-1"></div>
 
@@ -15,7 +15,7 @@ Honorable Mention in Amateur Photomanipulation category.
 
 <div class="lines-1"></div>
 
-# Original Series
+## Original Series
 
 <!--StartFragment-->
 
@@ -43,7 +43,7 @@ Honorable Mention in Amateur Photomanipulation category.
 
 <!--StartFragment-->
 
-# Additional Works (Practice)
+## Additional Works (Practice)
 
 ![Additional Work 1](/assets/yg-additional-1-360ppi.jpg "Additional Work 1")
 
@@ -59,7 +59,7 @@ Honorable Mention in Amateur Photomanipulation category.
 
 <!--StartFragment-->
 
-# Contact Sheets
+## Contact Sheets
 
 ![Dream Contact Sheet 1](/assets/yg-contact-sheet-01.jpg "Dream Contact Sheet 1")
 
@@ -69,7 +69,7 @@ Honorable Mention in Amateur Photomanipulation category.
 
 <!--StartFragment-->
 
-# Artist Statement
+## Artist Statement
 
 <!--StartFragment-->
 
@@ -91,6 +91,6 @@ Each of the series is of double or more exposures. I made the lighting effects b
 
 <!--EndFragment-->
 
-# Critical Reflection
+## Critical Reflection
 
 [Click here to read and download the critical reflection essay for "Dream"](/assets/dream-critical-reflection.pdf)
