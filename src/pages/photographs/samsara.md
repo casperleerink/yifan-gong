@@ -4,7 +4,7 @@ title: Samsara (2019)
 date: 2019-05-20T16:00:00.000Z
 image: /assets/yifan-gong_samsara.jpg
 ---
-# Samsara
+## Samsara
 
 <div class="lines-1"></div>
 
@@ -12,7 +12,7 @@ image: /assets/yifan-gong_samsara.jpg
 
 <div class="lines-1"></div>
 
-# Short Statement
+## Short Statement
 
 <div class="lines-1"></div>
 
