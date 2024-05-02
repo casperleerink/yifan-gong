@@ -6,7 +6,7 @@ image: /assets/dsc_2762_副本.jpg
 ---
 <div class="lines-1"></div>
 
-# Full View
+## Full View
 
 <div class="lines-1"></div>
 
@@ -16,7 +16,7 @@ image: /assets/dsc_2762_副本.jpg
 
 <div class="lines-1"></div>
 
-# Detailes
+## Details
 
 <div class="lines-1"></div>
 
@@ -32,7 +32,7 @@ image: /assets/dsc_2762_副本.jpg
 
 <div class="lines-1"></div>
 
-# Artist Statement
+## Artist Statement
 
 <div class="lines-1"></div>
 
@@ -50,7 +50,7 @@ I applied paints with acrylic primer using foam brushes and make flows, which wa
 
 <div class="lines-1"></div>
 
-# Making Process
+## Making Process
 
 <div class="lines-1"></div>
 
