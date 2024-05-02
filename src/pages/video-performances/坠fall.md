@@ -84,7 +84,3 @@ Whether your answer is “Yes” or “No”, please follow me and let’s start
 <https://b23.tv/hZqcnS>
 
 <div class="lines-1"></div>
-
-# Making Process & Behind the Scene
-
-<div class="lines-1"></div>
