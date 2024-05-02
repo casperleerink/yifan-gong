@@ -7,3 +7,11 @@ image: /assets/1080p-6733.jpg
 ## *C﻿ARNIVAL* x *DoII*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/eFSZstfcfZQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+*CARNIVAL*﻿ x *DoII* unedited master shot
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ZNj4Ic91KOs" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+*CARNIVAL*﻿ x *DoII* live process side came
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/1W4rduB-3y4" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
