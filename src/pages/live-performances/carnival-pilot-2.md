@@ -4,8 +4,6 @@ title: CARNIVAL Pilots 2023
 date: 2023-02-23T00:00:00.000Z
 image: /assets/yg-take-5.00_00_59_12.still001.jpg
 ---
-<div class="lines-1"></div>
-
 T﻿his is the documentation of the pilot practices of the *CARNIVAL* series. 
 
 Producer/Director of Research:
