@@ -4,7 +4,7 @@ title: DoII (2021)
 date: 2021-03-01T08:59:36.239Z
 image: /assets/微信图片_20210207201811.jpg
 ---
-# DoII (Original Film)
+## DoII (Original Film)
 
 <div class="lines-1"></div>
 
@@ -12,7 +12,7 @@ image: /assets/微信图片_20210207201811.jpg
 
 <div class="lines-1"></div>
 
-# Synopsis (Short)
+## Synopsis (Short)
 
 <div class="lines-1"></div>
 
@@ -20,7 +20,7 @@ DoII is an experimental short with postmodern dance sequences presented in it. I
 
 <div class="lines-1"></div>
 
-# Synopsis (Long)
+## Synopsis (Long)
 
 <div class="lines-1"></div>
 
@@ -30,7 +30,7 @@ Note: Both of the two characters, Chain and Aris, are non-binary. The main actor
 
 <div class="lines-1"></div>
 
-# Director/Artist Statement
+## Director/Artist Statement
 
 <div class="lines-1"></div>
 
@@ -42,27 +42,27 @@ As an audiovisual art studies researcher, I fully participated in the visual pro
 
 <div class="lines-1"></div>
 
-# Official Trailer
+## Official Trailer
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/O4lEewO6Hwo" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
-# Behind the Scenes
+## Behind the Scenes
 
 <div class="lines-1"></div>
 
-## Part. A
+### Part. A
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DxnilaZLES4" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-## Part. B
+### Part. B
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/4La3evvXCfE" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
-# On-site Stills
+## On-site Stills
 
 <div class="lines-1"></div>
 
@@ -74,7 +74,7 @@ As an audiovisual art studies researcher, I fully participated in the visual pro
 
 <div class="lines-1"></div>
 
-# Stills from Film
+## Stills from Film
 
 <div class="lines-1"></div>
 
