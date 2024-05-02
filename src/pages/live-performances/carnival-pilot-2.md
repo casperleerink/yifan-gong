@@ -14,7 +14,7 @@ Yifan Gong
 Documentation Operator:
 Ruijun Zhang, Xin Wei, Yifan Gong
 
-Participants: Yifan Gong, Yuan Liu and Chenli Wu.
+Participants: Yifan Gong, Yuan Liu, Chenli Wu, Sheng Zhu, Yingzi Feng
 
 <div class="lines-1"></div>
 
