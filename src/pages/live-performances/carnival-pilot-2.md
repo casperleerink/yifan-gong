@@ -22,6 +22,12 @@ Participants: Yifan Gong, Yuan Liu, Chenli Wu, Sheng Zhu, Yingzi Feng
 
 <div class="lines-1"></div>
 
+## *CARNIVAL Pilot 1* and *Pilot 2* Duets Concentrated Edition
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/cutHCahNoU0" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="lines-1"></div>
+
 ## Yifan Gong's Theatre of One
 
 Yifan Gong’s 5-layer solo master cam:
