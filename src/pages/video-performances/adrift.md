@@ -4,7 +4,7 @@ title: ADRIFT (2020)
 date: 2020-03-20T02:36:09.740Z
 image: /assets/微信图片_20200805215649.jpg
 ---
-# Motion Captured Animation Short (Unfinished)
+## Motion Captured Animation Short (Unfinished)
 
 <div class="lines-1"></div>
 
@@ -18,7 +18,7 @@ image: /assets/微信图片_20200805215649.jpg
 
 <div class="lines-1"></div>
 
-# Reflection and Documentation
+## Reflection and Documentation
 
 <div class="lines-1"></div>
 
@@ -26,7 +26,7 @@ image: /assets/微信图片_20200805215649.jpg
 
 <div class="lines-1"></div>
 
-#  B-roll﻿ stills
+##  B-roll﻿ stills
 
 <div class="lines-1"></div>
 
