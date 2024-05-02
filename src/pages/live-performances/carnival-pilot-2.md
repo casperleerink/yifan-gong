@@ -1,28 +1,26 @@
 ---
 templateKey: work-page
-title: CARNIVAL Pilot 2
+title: CARNIVAL Pilots 2023
 date: 2023-02-23T00:00:00.000Z
 image: /assets/yg-take-5.00_00_59_12.still001.jpg
 ---
 <div class="lines-1"></div>
 
-T﻿his is the documentation of the 2nd pilot practice of CARNIVAL series. 
+T﻿his is the documentation of the pilot practices of the *CARNIVAL* series. 
 
 Producer/Director of Research:
 Yifan Gong
 
 Documentation Operator:
-Xin Wei, Yifan Gong
+Ruijun Zhang, Xin Wei, Yifan Gong
 
 Participants: Yifan Gong, Yuan Liu and Chenli Wu.
 
 <div class="lines-1"></div>
 
- 
+# *CARNIVAL Pilot 2* Concentrated Edition
 
-# *CARNIVAL Pilot 2* Concentrated Edition 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/-7bHFeI_QY4" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/WIlGI2GUHz8" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
