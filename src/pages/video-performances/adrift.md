@@ -26,13 +26,7 @@ image: /assets/微信图片_20200805215649.jpg
 
 <div class="lines-1"></div>
 
-# Making Process: Choreography
-
-<div class="lines-1"></div>
-
-**Please cilck the Google Drive link below to watch the videos (for watch only):**
-
-**<https://drive.google.com/drive/folders/1tdvg9dulf5yXKRlU2BIvrszdUtd_CI5E>**
+#  B-roll﻿ stills
 
 <div class="lines-1"></div>
 
