@@ -28,7 +28,7 @@ Participants: Yifan Gong, Yuan Liu, Chenli Wu, Sheng Zhu, Yingzi Feng
 
 <div class="lines-1"></div>
 
-## Yifan Gong's Theatre of One
+## Yifan Gong's Theatre of One full process
 
 Yifan Gong’s 5-layer solo master cam:
 
@@ -42,7 +42,7 @@ Yifan's Instant Notation
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Y0Mzp4qePbQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-## Yuan Liu's Theatre of One
+## Yuan Liu's Theatre of One full process
 
 Yuan Liu’s 5-layer solo master cam:
 
@@ -62,7 +62,7 @@ Yuan Liu’s 5-layer solo side cam:
 
 ![](/assets/右侧细节.jpg)
 
-## Chenli Wu's Theatre of One
+## Chenli Wu's Theatre of One full process
 
 C﻿henli Wu's 5-layer solo master cam:
 
