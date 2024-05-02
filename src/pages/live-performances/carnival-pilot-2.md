@@ -18,13 +18,13 @@ Participants: Yifan Gong, Yuan Liu, Chenli Wu, Sheng Zhu, Yingzi Feng
 
 <div class="lines-1"></div>
 
-# *CARNIVAL Pilot 2* Concentrated Edition
+## *CARNIVAL Pilot 2* Concentrated Edition
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WIlGI2GUHz8" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div class="lines-1"></div>
 
-## Participant 1: Yifan Gong
+## Yifan Gong's Theatre of One
 
 Yifan Gong’s 5-layer solo master cam:
 
@@ -46,7 +46,7 @@ Yifan's Instant Notation
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Y0Mzp4qePbQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-## Participant 2: Yuan Liu
+## Yuan Liu's Theatre of One
 
 Yuan Liu’s 5-layer solo master cam:
 
@@ -66,7 +66,7 @@ Yuan Liu’s 5-layer solo side cam:
 
 ![](/assets/右侧细节.jpg)
 
-## Participant 3: Chenli Wu
+## Chenli Wu's Theatre of One
 
 C﻿henli Wu's 5-layer solo master cam:
 
@@ -90,7 +90,7 @@ C﻿henli Wu's 5-layer solo side cam:
 
 ![](/assets/细节3.jpg)
 
-## CP﻿2 Special Take: Yifan Gong and Chenli Wu Duet
+## Special Take: Yifan Gong and Chenli Wu Duet
 
 M﻿aster cam:
 
