@@ -14,11 +14,11 @@ Yifan Gong, a PhD candidate in theatre and performance studies at the University
 
 <!--StartFragment-->
 
-This is **Yifan Gong**, a current PhD student in Theatre and Performance Studies at the Edinburgh College of Art, the University of Edinburgh.
+This is **Yifan Gong**, a current PhD candidate in Theatre and Performance Studies at the Edinburgh College of Art, the University of Edinburgh.
 
-I hold a BFA degree with distinction in Theatre and Visual Arts from the University of the Fraser Valley, Canada. I started to take theatre and visual arts courses in January 2017 and learned filmmaking at Shanghai Vancouver Film School. 
+I hold a BFA degree with distinction in Theatre and Visual Arts from the University of the Fraser Valley, Canada. I started to take theatre and visual arts courses (painting and analogue photography) in January 2017 and learned filmmaking at Shanghai Vancouver Film School. 
 
-My artistic practices so far span devised theatre, digital performance, filmmaking, directing and acting for theatre/screen, analogue and digital photography, acrylic painting, songwriting, dancing and choreography. My research areas include but are not limited to: the emancipated spect-actor; immersive theatre; immersion brought by XR media and technologies; volumetric capture and volumetric video; practice-led research; humanism and digital humanism; equality in the arts and theatrical de-professionalism.
+My artistic practices so far span devised theatre, digital performance, filmmaking, directing and acting for theatre/screen, analogue and digital photography, acrylic painting, songwriting, post-modern dance and choreography. My research areas include but are not limited to: the emancipated spect-actor; immersive theatre; immersion brought by XR media and technologies; volumetric capture and volumetric video; practice-led research; humanism and digital humanism; equality in the arts and theatrical de-professionalism.
 
 I have a strong passion for integrating new technologies within contemporary art. I would like to dig deeper into interdisciplinary and transdisciplinary art research in such a global environment with the rapid development of science and technology. In terms of genres, I am into non-linear storytelling, abstract expressionism and improvisation. 
 
