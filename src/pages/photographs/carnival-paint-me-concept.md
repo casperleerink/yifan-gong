@@ -12,10 +12,12 @@ P﻿hotographed by Chenhao Ma
 
 Post-production and color grading by Yifan Gong
 
+![](/assets/白色海报-拷贝.jpg#half-left)
+
+![](/assets/红色海报-拷贝.jpg#half-left)
 
 
-![](/assets/红色海报-拷贝.jpg#middle)
 
-![](/assets/黄色海报-拷贝.jpg#middle)
+![](/assets/黄色海报-拷贝.jpg#half-left)
 
-![](/assets/蓝色海报未p纯蓝色眼睛.jpg#middle)
+![](/assets/蓝色海报未p纯蓝色眼睛.jpg#half-left)
