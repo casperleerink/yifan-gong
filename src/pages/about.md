@@ -14,14 +14,11 @@ Yifan Gong, a PhD candidate in theatre and performance studies at the University
 
 <!--StartFragment-->
 
-I am Yifan Gong, a current PhD candidate in Theatre and Performance Studies at the Edinburgh College of Art, the University of Edinburgh. My PhD is on the theme of creating the Theatre of One Emancipated Spect-actor using accumulating methods. It is led by the aesthetics of accumulation and the emancipated spect-actor. As a practitioner in the flesh, he conducts performative (practice-led), phenomenological and hermeneutic research methods to produce intermedial performances and to research this theme. 
-
+I am Yifan Gong, a current PhD candidate in Theatre and Performance Studies at the Edinburgh College of Art, the University of Edinburgh. My PhD is on the theme of creating the Theatre of One Emancipated Spect-actor using accumulating methods. It is led by the aesthetics of accumulation and the emancipated spect-actor. As a practitioner in the flesh, I conduct performative (practice-led), phenomenological and hermeneutic research methods to produce intermedial performances and to research this theme. 
 
 I hold a BFA degree with distinction in Theatre and Visual Arts from the University of the Fraser Valley, Canada. I started to take theatre and visual arts courses (painting and analogue photography) in January 2017 and learned filmmaking at Shanghai Vancouver Film School. 
 
-
 My artistic practices so far span devised theatre, digital performance, filmmaking, directing and acting for theatre/screen, analogue and digital photography, acrylic painting, songwriting, post-modern dance and choreography. My research areas include but are not limited to: phenomenology, hermeneutics, theatre and performance aesthetics, intermediality and intermedial art,  XR media and technologies, volumetric capture and volumetric film, practice-led/based research, digital humanism, immersive theatre, devised theatre and psychology of personality traits. 
-
 
 Digging deeper into trans/interdisciplinary art research with the rapid development of science and technology is a necessity for this generation, so I am passionate about integrating new technologies within contemporary art-making. In terms of genres, I am into non-linear storytelling, abstract expressionism and improvisation. 
 As well as an E-portfolio, this personal website consists of collections of my significant artworks made so far, including digital documents, showreels and video recordings of live/mediatised performances. Please explore the navigation bars to view more details and descriptions of my art practices.
