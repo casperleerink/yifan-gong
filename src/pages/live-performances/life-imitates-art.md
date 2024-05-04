@@ -6,39 +6,33 @@ image: /assets/微信图片_20200723184224.jpg
 ---
 ## Devised Theatre Performance Full Recording
 
-<div class="lines-1"></div>
+Role: Deviser, dancer, choreographer, actor, music director 
 
-**Role: Deviser, dancer, choreographer, actor, music director** 
+Please click the link below to watch the recording:
 
-<div class="lines-1"></div>
-
-**Please click the link below to watch the recording:**
-
-<https://b23.tv/BQHiig>
+**https://b23.tv/OODMMWW**
 
 <div class="lines-1"></div>
 
 ## Cast
 
-<div class="lines-1"></div>
-
 <!--StartFragment-->
 
-**Devisers:** 
+Devisers: 
 
-**Belle Hernberg-Johnson**
+Belle Hernberg-Johnson
 
-**Danielle Edwards**
+Danielle Edwards
 
-**Desiree Hale**
+Desiree Hale
 
-**Haotian(Cedric) Liu**
+Haotian(Cedric) Liu
 
-**Kirsten MacDonald**
+Kirsten MacDonald
 
-**RuoYu(Sherry) Xiao**
+RuoYu(Sherry) Xiao
 
-**Yifan Gong**
+Yifan Gong
 
 <!--EndFragment-->
 
