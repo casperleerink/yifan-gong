@@ -6,7 +6,11 @@ image: /assets/白色海报-拷贝.jpg
 ---
 ## *CARNIVAL: Paint ME* Poster 4 Images
 
-![](/assets/白色海报-拷贝.jpg#middle)
+Produced and styled by Yifan Gong
+
+P﻿hotographed by Chenhao Ma
+
+Post-production and color grading by Yifan Gong
 
 
 
