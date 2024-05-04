@@ -14,7 +14,7 @@ Yifan Gong, a PhD candidate in theatre and performance studies at the University
 
 <!--StartFragment-->
 
-This is **Yifan Gong**, a current PhD candidate in Theatre and Performance Studies at the Edinburgh College of Art, the University of Edinburgh.
+This is Yifan Gong, a current PhD candidate in Theatre and Performance Studies at the Edinburgh College of Art, the University of Edinburgh.
 
 I hold a BFA degree with distinction in Theatre and Visual Arts from the University of the Fraser Valley, Canada. I started to take theatre and visual arts courses (painting and analogue photography) in January 2017 and learned filmmaking at Shanghai Vancouver Film School. 
 
