@@ -2,13 +2,13 @@
 templateKey: about-page
 image: /assets/yifan-gong.jpg
 ---
-# Super-short Bio
+## Super-short Bio
 
 Yifan Gong, a PhD candidate in theatre and performance studies at the University of Edinburgh, holds a BFA degree with distinction in Theatre and Visual Arts from the University of the Fraser Valley, Canada. He learned filmmaking at Shanghai Vancouver Film School and is now active as a versatile artist, actor, director and academic researcher.
 
 <div class="lines-1"></div>
 
-# Short Biography
+## Short Biography
 
 <div class="lines-1"></div>
 
@@ -27,7 +27,7 @@ As well as an E-portfolio, this personal website consists of collections of my s
 
 <div class="lines-1"></div>
 
-# Artist Statement (old)
+## Artist Statement (old)
 
 <div class="lines-1"></div>
 
@@ -41,7 +41,7 @@ I paint with different materials and acrylic paints that are directly squeezed f
 
 <div class="lines-1"></div>
 
-# CV
+## CV
 
 <div class="lines-1"></div>
 
