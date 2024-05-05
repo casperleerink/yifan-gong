@@ -20,7 +20,7 @@ I hold a BFA degree with distinction in Theatre and Visual Arts from the Univers
 
 My artistic practices so far span devised theatre, digital performance, filmmaking, directing and acting for theatre/screen, analogue and digital photography, acrylic painting, songwriting, post-modern dance and choreography. My research areas include but are not limited to: phenomenology, hermeneutics, theatre and performance aesthetics, intermediality and intermedial art, XR media and technologies, volumetric capture and volumetric film, practice-led/based research, digital humanism, immersive theatre, devised theatre and psychology of personality traits. 
 
-Digging deeper into trans/interdisciplinary art research with the rapid development of science and technology is a necessity for this generation, so I am passionate about integrating new technologies within contemporary art-making. In terms of genres, I am into non-linear storytelling, abstract expressionism and improvisation. 
+Digging deeper into trans/interdisciplinary art research with the rapid development of science and technology is a necessity for this generation, so I am passionate about integrating new technologies within contemporary art-making. In terms of genres, I often manipulate non-linear storytelling, abstract expressionism and improvisation. 
 As well as an E-portfolio, this personal website consists of collections of my significant artworks made so far, including digital documents, showreels and video recordings of live/mediatised performances. Please explore the navigation bars to view more details and descriptions of my art practices.
 
 <!--EndFragment-->
