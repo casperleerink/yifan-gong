@@ -14,7 +14,7 @@ Yifan Gong, a PhD candidate in theatre and performance studies at the University
 
 <!--StartFragment-->
 
-I am Yifan Gong, a current PhD candidate in Theatre and Performance Studies at the Edinburgh College of Art, the University of Edinburgh. My PhD is on the theme of creating the Theatre of One Emancipated Spect-actor using accumulating methods. It is led by the aesthetics of accumulation and the emancipated spect-actor. As a practitioner in the flesh, I conduct performative (practice-led), phenomenological and hermeneutic research methods to produce intermedial performances and to research this theme. 
+I am Yifan Gong, a current PhD candidate in Theatre and Performance Studies at the Edinburgh College of Art, the University of Edinburgh. My PhD is on the theme of strategising the Theatre of One Emancipated Spect-actor using accumulating methods. It is led by the aesthetics of accumulation and the emancipated spect-actor. As a practitioner in the flesh, I conduct performative (practice-led), phenomenological and hermeneutic research methods to produce intermedial performances and to research this theme. 
 
 I hold a BFA degree with distinction in Theatre and Visual Arts from the University of the Fraser Valley, Canada. I started to take theatre and visual arts courses (painting and analogue photography) in January 2017 and learned filmmaking at Shanghai Vancouver Film School. 
 
