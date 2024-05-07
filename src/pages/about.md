@@ -46,7 +46,7 @@ I paint with different materials and acrylic paints that are directly squeezed f
 
 <div class="lines-1"></div>
 
-[Please click here to read or download Yifan Gong's CV](/assets/yifan-gong-cv-2023.pdf)
+[Please click here to read or download Yifan Gong's CV](/assets/yifan-gong-cv-2024.pdf)
 
 <div class="lines-1"></div>
 
