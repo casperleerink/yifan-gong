@@ -10,6 +10,20 @@ image: /assets/一人戏剧2.jpg
 
 <div class="lines-1"></div>
 
-## CARNIVAL: Paint ME Phase 2 
+## CARNIVAL: Paint ME Phase 2
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/woOyMWsE47Y" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="lines-1"></div>
+
+![](/assets/dsc00396.jpg#middle)
+
+## S﻿tills
+
+#### S﻿cene No. 1
+
+#### S﻿cene No. 2
+
+#### S﻿cene No. 3
+
+#### S﻿cene No. 4
