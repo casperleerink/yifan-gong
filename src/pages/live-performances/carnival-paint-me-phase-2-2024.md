@@ -16,8 +16,6 @@ image: /assets/一人戏剧2.jpg
 
 <div class="lines-1"></div>
 
-![](/assets/dsc00396.jpg#middle)
-
 ## S﻿tills
 
 #### S﻿cene No. 1
