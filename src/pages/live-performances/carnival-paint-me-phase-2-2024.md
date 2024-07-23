@@ -18,6 +18,10 @@ image: /assets/一人戏剧2.jpg
 
 ## S﻿tills
 
+![](/assets/figure-4.-5.jpg)
+
+![](/assets/figure-4.-8.jpg)
+
 #### S﻿cene No. 1
 
 #### S﻿cene No. 2
