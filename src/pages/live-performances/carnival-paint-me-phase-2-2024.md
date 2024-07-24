@@ -18,6 +18,8 @@ image: /assets/一人戏剧2.jpg
 
 ## S﻿tills
 
+![](/assets/img_3505.jpg)
+
 ![](/assets/figure-4.-5.jpg)
 
 ![](/assets/figure-4.-8.jpg)
