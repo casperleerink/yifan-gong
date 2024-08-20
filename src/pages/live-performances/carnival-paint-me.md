@@ -19,9 +19,9 @@ Music by Zhuohan Zhao and Yifan Gong
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/9hrSIi4ZsmE" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-## S﻿tills - Painting sequences
-
 <div class="lines-1"></div>
+
+## S﻿tills - Painting sequences
 
 ![](/assets/img_4102.jpg)
 
