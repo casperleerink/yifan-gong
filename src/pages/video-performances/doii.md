@@ -12,7 +12,13 @@ image: /assets/微信图片_20210207201811.jpg
 
 ## Synopsis (Short)
 
-DoII is an experimental short with postmodern dance sequences presented in it. It tells a story about domestic abuse, dual personality and ego. The two main characters, the doll called Aris and Chain, are two-in-one. Originating from a Chain's monologue, the narrative seems still to be a monologue but is way more than a monologue now. 
+<!--StartFragment-->
+
+DoII is an experimental short film with postmodern dance sequences. It tells a story about domestic abuse, dual personality and ego. The two main characters, the doll called Aris, and Chain, are two-in-one. Originating from Chain's monologue, the narrative still seems to be a monologue but is way more than a monologue now.
+
+Produced, directed, written, edited, and partially scored and choreographed by Yifan Gong. Collaborated with Shanghai Vancouver Film School.
+
+<!--EndFragment-->
 
 <div class="lines-1"></div>
 
