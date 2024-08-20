@@ -4,6 +4,21 @@ title: "CARNIVAL: Paint ME Phase 1 (2023)"
 date: 2023-04-29T23:05:17.465Z
 image: /assets/img_4101.jpg
 ---
+# CARNIVAL: Paint ME in DC
+
+<div class="lines-1"></div>
+
+It’s all about I, me, myself.
+It’s me, in an infinite hermeneutic circle, painting ME.
+
+This is a recreation of a live performance of the CARNIVAL: Paint ME series in Washington, D.C., USA. 
+
+Directed, produced, performed and edited by Yifan Gong 
+Shot by Xhep Xhepa, Michael Reinisch, Becky Lake 
+Music by Zhuohan Zhao and Yifan Gong
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/9hrSIi4ZsmE" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ## S﻿tills - Painting sequences
 
 <div class="lines-1"></div>
