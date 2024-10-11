@@ -46,7 +46,7 @@ Whatever media I employ, I keep asking myself - if nobody loves me, how can I lo
 
 ## CV
 
-[Please click here to read or download Yifan Gong's CV](/assets/yifan-gong-cv-2024.pdf)
+[Please click here to read or download Yifan Gong's CV](/assets/yifan-gong-cv-2024oct.pdf)
 
 <div class="lines-1"></div>
 
