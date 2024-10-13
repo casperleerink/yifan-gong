@@ -36,8 +36,6 @@ image: /assets/picture4.jpg
 
 I always feel like I have multiple personalities. Maybe it is because I am an actor? In my imagination, many of my self/s play different roles with different personalities in various dimensions, where I am either calm or crazy, concentrated or disordered, brave or scared, cold or warm. I constantly question whether I have killed someone in another dimension or if someone else has killed me. But who killed me? I killed whom? To be or not to be is a profound question. However, in this world where I feel genuinely alive, I have a strong belief in Ernest Hemingway’s most famous quote, “A man can be destroyed but not defeated.” I believe the only one who can defeat me is just myself. I am “trying to kill myself” in different situations in various dimensions, but I keep oscillating, spiralling and reincarnating in diverse time and space. I enjoy the adventurous process of being and living. It is so exciting and so live. 
 
-This photograph depicts an extended story behind those images I did for project 2 Still Life. You are wondering who is the “murderer” in my project 2, now I have the answer to show you. That is me. I was “trying to kill myself” in different situations in various dimensions, and I did enjoy the exciting adventurous process.
-
 <!--EndFragment-->
 
 <div class="lines-1"></div>
