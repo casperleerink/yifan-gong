@@ -6,7 +6,7 @@ image: /assets/dsc_2753_副本.jpg
 ---
 ## Short Description
 
-Loneliness and anxiety seem to have occupied Yifan’s life. However, they bring artistic inspirations. This series are named “ONE” as Yifan believes Taoism. “The Tao produced One; One produced Two; Two produced Three; Three produced All things." One can be one, and it can also be everything. We all live only once, and we may be killed. However, we cannot be defeated as the end of ONE, is ETERNITY. 
+Loneliness and anxiety seem to have occupied my life. However, they bring artistic inspiration. This series is named “ONE” as I agree with Taoism. “The Tao produced One; One produced Two; Two produced Three; Three produced All things." One can be one, and it can also be everything. We all live only once, and we are all going to die. However, we cannot be defeated as the end of One is eternity. The evidence of our existence is perpetually present. It is true that I am alone and lonely, but I am also aware that my possibilities are unlimited. An individual may be more powerful than they realise. I believe in this and am practising this by myself and by my art.
 
 <div class="lines-1"></div>
 
