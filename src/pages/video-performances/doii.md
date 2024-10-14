@@ -4,6 +4,8 @@ title: DoII (2021)
 date: 2021-03-01T08:59:36.239Z
 image: /assets/微信图片_20210207201811.jpg
 ---
+DoII is an experimental dance film where I was not allowed to be the performer but director, scenic designer, choreographer, editor, and musician. The actor of DoII instead functioned as my doppelganger as he actually played the role of me. I improvisationally danced and acted with the actor when directing off camera. Regardless of the fictional narrative, DoII (double “I” rather than “L”) is a film of and about One, who is the subject-object two-in-one. The doll is an objectified external expression of the Self, and this film welcomes the audience to enter my lonely and struggling spiritual world, so as to raise attention to people living an alone life with emotional distress. DoII is an early practical experiment of my aesthetics studies of the subjectivity and objectivity of the Self during my PhD. 
+
 ## DoII (Original Film)
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/93cT4vboVX0" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -24,8 +26,7 @@ Produced, directed, written, edited, and partially scored and choreographed by Y
 
 ## Synopsis (Long)
 
-This short film is actually a monologue. 
-The main character, Chain, is a young freshman who has been living with their best friend, a doll called Aris, since they were born. Besides Aris, Chain also lives with their father and their sister. Because Chain’s mother died in dystocia, the father became a violent control freak. The sister is also indifferent since it is Chain’s fault for their mother’s death in her mind. Chain has suffered from domestic violence and the lack of family’s love for such a long time and gradually becomes psychologically disordered. The tragedy seems to happen again as Chain grows up. 
+This short film is actually a monologue. The main character, Chain, is a young freshman who has been living with their best friend, a doll called Aris, since they were born. Besides Aris, Chain also lives with their father and their sister. Because Chain’s mother died in dystocia, the father became a violent control freak. The sister is also indifferent since it is Chain’s fault for their mother’s death in her mind. Chain has suffered from domestic violence and the lack of family’s love for such a long time and gradually becomes psychologically disordered. The tragedy seems to happen again as Chain grows up. 
 Note: Both of the two characters, Chain and Aris, are non-binary. The main actor (the dancer) and the director are identified as gay men.
 
 <div class="lines-1"></div>
