@@ -12,7 +12,7 @@ Have you ever dreamed that you unconsciously slipped and fell from the stairs? H
 
 ## *坠Fall* (Full video)
 
-This is Yifan Gong’s first experimental short film. 
+This is Yifan Gong’s first experimental short film. It introduces a series of dreams of mine where I traverse various times, spaces and dimensions. This laid the conceptual and practical foundations for my subsequent practice-led PhD research. My daydreams and nightmares are very complicated consisting of multiple narratives and fantastic stories in which I play different characters. This may be because my cerebral cortex is overactive. It is such a burden for me, but it brings abundant beauty and fantasies to my art. 
 
 Keywords: non-linear narrative, experimental short, dance video, music video, Acting-Without-Words
 
