@@ -19,7 +19,7 @@ Music by Zhuohan Zhao and Yifan Gong
 
 <div class="lines-1"></div>
 
-## CARNIVAL: Paint ME Phase 2
+## CARNIVAL: Paint ME in Edinburgh full performance
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/woOyMWsE47Y" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
