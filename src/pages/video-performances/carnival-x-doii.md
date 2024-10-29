@@ -6,9 +6,9 @@ image: /assets/carnival-x-doii-cover-page.png
 ---
 Produced, directed, performed by Yifan Gong
 Shot by Xin Wei and Xiaodong Liu
-Post-production and music by Yifan Gong
+Post-production, singing and music by Yifan Gong 
 
-A﻿ re-created short film in 2023, accumulating the previous one in 2021
+A﻿ re-created short film in 2023, accumulating a live performance at Adam House Basement Theatre, Edinburgh and a previous film DoII (2021). 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/eFSZstfcfZQ" class="video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
