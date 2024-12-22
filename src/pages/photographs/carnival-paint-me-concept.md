@@ -4,11 +4,11 @@ title: CARNIVAL visual concept
 date: 2024-05-02T21:44:55.108Z
 image: /assets/true-colours.jpg
 ---
-Produced and styled by Yifan Gong
+Producing, styling, makeup, design and postproduction by Yifan Gong
 
-P﻿hotographed by Chenhao Ma
+Photography by Chenhao Ma
 
-Post-production and color grading by Yifan Gong
+S﻿pecial thanks to Yuan Liu
 
 ![](/assets/true-colours.jpg)
 
