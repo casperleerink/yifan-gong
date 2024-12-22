@@ -46,7 +46,7 @@ Besides expressing individuality, I keep asking myself - if nobody loves me, how
 
 ## CV
 
-[Please click here to read or download Yifan Gong's CV](/assets/yifan-gong-cv-2024oct.pdf)
+[Please click here to read or download Yifan Gong's CV](/assets/yifan-gong-cv-2024.pdf)
 
 <div class="lines-1"></div>
 
