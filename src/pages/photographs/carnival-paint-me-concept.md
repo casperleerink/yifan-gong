@@ -10,6 +10,12 @@ P﻿hotographed by Chenhao Ma
 
 Post-production and color grading by Yifan Gong
 
+![](/assets/true-colours.jpg)
+
+A﻿nother version:
+
+![](/assets/true-colours-2.jpg)
+
 ## Original 4 Images
 
 ![](/assets/白色海报-拷贝.jpg#middle)
