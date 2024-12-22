@@ -1,16 +1,16 @@
 ---
 templateKey: work-page
-title: "CARNIVAL: Paint ME concept"
+title: CARNIVAL visual concept
 date: 2024-05-02T21:44:55.108Z
-image: /assets/白色海报-拷贝.jpg
+image: /assets/true-colours.jpg
 ---
-## *CARNIVAL: Paint ME* Poster 4 Images
-
 Produced and styled by Yifan Gong
 
 P﻿hotographed by Chenhao Ma
 
 Post-production and color grading by Yifan Gong
+
+## Original 4 Images
 
 ![](/assets/白色海报-拷贝.jpg#middle)
 
